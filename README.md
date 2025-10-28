@@ -53,5 +53,13 @@ Large Language Models (LLMs) have become valuable assistants for developers in c
 ## &#x1F4DA; Citation
 If you find this codebase useful for your research, please use the following entry.
 ```BibTeX
-
+@misc{xiao2025codeaestheticsagenticreward,
+      title={Code Aesthetics with Agentic Reward Feedback}, 
+      author={Bang Xiao and Lingjie Jiang and Shaohan Huang and Tengchao Lv and Yupan Huang and Xun Wu and Lei Cui and Furu Wei},
+      year={2025},
+      eprint={2510.23272},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.23272}, 
+}
 ```
