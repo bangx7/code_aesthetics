@@ -39,6 +39,7 @@
 </div>
 
 ## 🎉 News
+- __[2025.10.29]__: Release the [AesCoder-4B](https://huggingface.co/SamuelBang/AesCoder-4B/) model.
 - __[2025.10.27]__: Release the [Project Page](https://bangx7.github.io/code-aesthetics/) and the [Arxiv](https://arxiv.org/abs/2510.23272) version.
 
 ## 📷 Abstract
@@ -47,7 +48,7 @@ Large Language Models (LLMs) have become valuable assistants for developers in c
 
 ## To-do List
 - [x] Release paper and project page
-- [ ] Release our AesCoder model
+- [x] Release our AesCoder model
 - [ ] Release code
 
 ## &#x1F4DA; Citation
