@@ -1,0 +1,840 @@
+{"id": 1, "prompt": "A pair of water molecules connected in a three-dimensional arrangement.", "category": "3D Design"}
+{"id": 2, "prompt": "A stunning 3D representation of a national park with detailed landscapes and interactive features.", "category": "3D Design"}
+{"id": 3, "prompt": "Create a spinning doughnut encased in a wooden container, complete with shaders and shadows for a realistic effect.", "category": "3D Design"}
+{"id": 4, "prompt": "Develop an online soccer game inspired by FIFA, featuring realistic player movements, competitive matches, and immersive gameplay elements.", "category": "Game Dev"}
+{"id": 5, "prompt": "Create a user interface for a life insurance website.", "category": "Website"}
+{"id": 6, "prompt": "Create a user-friendly interface for a landing page dedicated to selling dog-related products, ensuring easy navigation and an appealing design for pet owners.", "category": "Website"}
+{"id": 7, "prompt": "A humorous four-panel webcomic where users can rotate and explore the scene from various perspectives, discovering hidden surprises from different angles.", "category": "3D Design"}
+{"id": 8, "prompt": "Revamped Airbnb homepage tailored for group adventures, featuring streamlined booking tools and personalized travel suggestions for families and friends exploring new destinations together.", "category": "Website"}
+{"id": 9, "prompt": "Mobile application for vehicle loans and financing on iOS devices.", "category": "Website"}
+{"id": 10, "prompt": "Design a homepage for an animation studio with an interface inspired by the whimsical style of Studio Ghibli.", "category": "Website"}
+{"id": 11, "prompt": "Create a user interface that resembles Spotify, focusing on music navigation and playlist creation.", "category": "Website"}
+{"id": 12, "prompt": "Create a comprehensive catalog of available vehicles for auto dealers.", "category": "Website"}
+{"id": 13, "prompt": "Create a website featuring sample datasets and interactive visualizations for users to explore.", "category": "Website"}
+{"id": 14, "prompt": "Develop a website feature that displays a rotating 3D cube to enhance visual engagement for users.", "category": "Website"}
+{"id": 15, "prompt": "Create an online platform where users can purchase luxury yachts, featuring detailed listings and user-friendly navigation.", "category": "Website"}
+{"id": 16, "prompt": "Create a vibrant cosmic scene with planets orbiting in eccentric paths, showcasing unique and fantastical designs that suggest they're from another universe.", "category": "3D Design"}
+{"id": 17, "prompt": "Develop an interactive browser game where players use an AI assistant to solve coding challenges.", "category": "Game Dev"}
+{"id": 18, "prompt": "Create a 3D model of a helicopter, focusing on interactive elements and user engagement.", "category": "3D Design"}
+{"id": 19, "prompt": "Create a contemporary landing page for a token release, incorporating eye-catching 3D graphics.", "category": "Website"}
+{"id": 20, "prompt": "Create a template to display traffic data using interactive charts and graphs.", "category": "Data Visualization"}
+{"id": 21, "prompt": "Create a user interface for a website dedicated to gaming computers, highlighting features and specifications.", "category": "Website"}
+{"id": 22, "prompt": "Create a virtual garden featuring vibrant flowers, flowing water features, and interactive pathways for users to explore.", "category": "3D Design"}
+{"id": 23, "prompt": "Create a conceptual replica of Facebook's early version, focusing on its initial purpose and core functions, not its appearance.", "category": "Website"}
+{"id": 24, "prompt": "Enjoy a slice of delicious pizza at our website, where you can explore a variety of flavors and learn about our cooking process.", "category": "Website"}
+{"id": 25, "prompt": "Create a lifelike 3D representation of a helicopter, capturing intricate details and textures to enhance realism.", "category": "3D Design"}
+{"id": 26, "prompt": "Design a user interface for a mobile puzzle game leaderboard, showcasing friends' scores, worldwide standings, and the latest weekly competitions.", "category": "Game Dev"}
+{"id": 27, "prompt": "The most effective method for creating a chart that visualizes vitamin D levels across various foods is through data visualization techniques.", "category": "Website"}
+{"id": 28, "prompt": "Create interactive charts showcasing trading trends and accident statistics in New York.", "category": "Data Visualization"}
+{"id": 29, "prompt": "Facts and figures presented on a versatile webpage.", "category": "Website"}
+{"id": 30, "prompt": "Design interface for user interaction", "category": "Website"}
+{"id": 31, "prompt": "Create a Next.js and Shadcn-based website for a YC-supported biotech firm, featuring bold drop shadows and captivating animations to enhance user engagement.", "category": "Website"}
+{"id": 32, "prompt": "Create a dynamic 3D environment displaying the graph of y = x, allowing users to explore and interact with it.", "category": "Data Visualization"}
+{"id": 33, "prompt": "Create a serene Japanese zen garden featuring carefully raked sand patterns, miniature bonsai trees, and a small stone bridge over a peaceful pond.", "category": "3D Design"}
+{"id": 34, "prompt": "Design a homepage for a venture capital firm, highlighting its investment focus, portfolio, and team expertise.", "category": "Website"}
+{"id": 35, "prompt": "Create an interface to display Mario game statistics visually, using interactive charts and graphs to explore player performance and game progress.", "category": "Data Visualization"}
+{"id": 36, "prompt": "Develop a browser-based game where players defend against waves of alien ships descending from space.", "category": "Game Dev"}
+{"id": 37, "prompt": "Create a live dashboard that pulls in real-time data to display key metrics on AI's increasing influence globally.", "category": "Data Visualization"}
+{"id": 38, "prompt": "Create a space-themed balance game where players guide a marble through a series of intricate obstacles to reach the finish line.", "category": "Game Dev"}
+{"id": 39, "prompt": "An interactive dashboard displaying sports betting odds and parlay combinations, allowing users to explore potential outcomes through dynamic charts and graphs.", "category": "Data Visualization"}
+{"id": 40, "prompt": "As a leading front-end developer, design an elegant and streamlined website dedicated to actress Christina Hendricks, highlighting her career and achievements.", "category": "Website"}
+{"id": 41, "prompt": "Explore the thrill of skydiving with our exciting offers! Dive into the adventure of a lifetime and experience the rush of free-fall with our expert instructors. Book your jump now!", "category": "Website"}
+{"id": 42, "prompt": "Create a lifelike 3D representation of Saturn, capturing its rings and distinct features with high realism.", "category": "3D Design"}
+{"id": 43, "prompt": "Create a user-friendly interface for a website dedicated to dog grooming services.", "category": "Website"}
+{"id": 44, "prompt": "A brightly colored turtle with an adorable anime appearance.", "category": "3D Design"}
+{"id": 45, "prompt": "Create an interface for a finance application, allowing users to easily track and manage investments.", "category": "Website"}
+{"id": 46, "prompt": "Develop a sleek and contemporary login page that includes options for signing in with third-party services, featuring a minimalist and flat design.", "category": "Website"}
+{"id": 47, "prompt": "Taylor's personal site showcases her fashion and travel adventures, styled like Pinterest, featuring minimalist design elements to highlight her creative content and engage visitors.", "category": "Website"}
+{"id": 48, "prompt": "Create a state-of-the-art portfolio for Dr. Mufti Faisal Fida that marries modern digital design with Islamic grace. The aesthetic should be sleek and minimalist, exuding a youthful, sophisticated air. Use generous white space and a clear visual hierarchy to tell his story as a scholar and activist. For typography, choose bold, geometric sans-serif fonts for English, and clean, modern Naskh or Kufi styles for Arabic.", "category": "Website"}
+{"id": 49, "prompt": "Design a detailed map of the game manor, featuring a domed throne room and private quarters in the Central Keep. Explore six unique wings: the maze-like Ratling Shadow Sanctum, subterranean Kobold Earthwork Chambers, heated Trollkin Steam Forge, magma-lined Goblin Pyre Hearth, water-filled Frogman Hydro Ward, and the elevated Harpy Sky Spire. The manor includes rocket stove-heated floors, luxurious bathhouse saunas, and efficient pressurized toilets.", "category": "Data Visualization"}
+{"id": 50, "prompt": "Create an impressive 3D character model, emphasizing unique features and personality.", "category": "3D Design"}
+{"id": 51, "prompt": "In 2006, a fictional rock band called FLAKE needs a website for their latest album, Jupiter. They've asked you to create it, keeping in mind the web design trends of that year.", "category": "Website"}
+{"id": 52, "prompt": "I need a nomogram that lets users calculate three variables interactively. It features a line crossing three axes, which must remain unbroken due to the constraints of the equation.", "category": "Data Visualization"}
+{"id": 53, "prompt": "Create a platform for gaming enthusiasts.", "category": "Website"}
+{"id": 54, "prompt": "A tool for monitoring various website elements and their performance.", "category": "Website"}
+{"id": 55, "prompt": "Create a user interface for an image editing platform where users can upload photos and choose from various editing features.", "category": "Website"}
+{"id": 56, "prompt": "Create an online platform dedicated to offering black hair care products, highlighting their benefits and features to attract and assist customers.", "category": "Website"}
+{"id": 57, "prompt": "Create a user interface for an online platform game, ensuring it's intuitive and enhances player immersion and interaction during gameplay.", "category": "Game Dev"}
+{"id": 58, "prompt": "Create a welcoming homepage for a Thai eatery, highlighting its menu, opening hours, and reservation options.", "category": "Website"}
+{"id": 59, "prompt": "Create an interactive 3D model of a lighthouse by the sea, allowing users to explore its structure and surroundings.", "category": "3D Design"}
+{"id": 60, "prompt": "Create a mobile user interface for an application that monitors artist Spotify plays and lists them in order of popularity.", "category": "Website"}
+{"id": 61, "prompt": "Create a two-page resume layout for a senior software engineer, including sections for a professional summary, key skills, work history, academic background, and relevant certifications.", "category": "Website"}
+{"id": 62, "prompt": "Create a sleek and simple interface for tracking personal finances efficiently.", "category": "Website"}
+{"id": 63, "prompt": "Create a stunning promotional webpage for a new mobile app focused on personal wellness and growth, highlighting its features and benefits.", "category": "Website"}
+{"id": 64, "prompt": "Create a user interface for a Laboratory Information Management System, focusing on enhancing data management and user accessibility.", "category": "Website"}
+{"id": 65, "prompt": "Develop an interactive online chess game where players can challenge each other, complete with real-time move tracking and strategic hints.", "category": "Game Dev"}
+{"id": 66, "prompt": "A kid-friendly encyclopedia about Minecraft.", "category": "Website"}
+{"id": 67, "prompt": "Create a user interface for a culinary website.", "category": "Website"}
+{"id": 68, "prompt": "Create an interface for a mobile app that helps users log and monitor their fitness activities.", "category": "Website"}
+{"id": 69, "prompt": "Design a water-inspired interface for a travel agency highlighting underwater hotels and cities. Incorporate animations of moving water, glowing buttons like sea creatures, and indicators showing different depths beneath the ocean.", "category": "Website"}
+{"id": 70, "prompt": "A website focused on SAT preparation, offering study materials and practice tests.", "category": "Website"}
+{"id": 71, "prompt": "Server-side infrastructure and logic.", "category": "Website"}
+{"id": 72, "prompt": "Create a language learning platform featuring engaging quizzes to enhance user interaction and learning.", "category": "Website"}
+{"id": 73, "prompt": "Creating an interactive browser game with engaging mechanics and a focus on player experience.", "category": "Game Dev"}
+{"id": 74, "prompt": "Create a webpage featuring a straightforward header and a neatly organized table for easy navigation.", "category": "Website"}
+{"id": 75, "prompt": "Create a digital 3D logo using a mini business card generator for unique branding.", "category": "3D Design"}
+{"id": 76, "prompt": "Floating amidst the clouds, explore a serene 3D landscape where misty peaks and gentle winds create a tranquil atmosphere.", "category": "3D Design"}
+{"id": 77, "prompt": "Design a homepage for a fast food company, highlighting their menu items, special offers, and easy order options.", "category": "Website"}
+{"id": 78, "prompt": "Online platform designed for a wide range of topics, emphasizing core content and user engagement.", "category": "Website"}
+{"id": 79, "prompt": "Create an introduction for a mobile game that includes helpful hints, lively animations, and rewarding features to enhance player engagement.", "category": "Game Dev"}
+{"id": 80, "prompt": "Explore the world of capybaras through a virtual simulation, offering insights into their habitat and behavior.", "category": "Website"}
+{"id": 81, "prompt": "Create a straightforward application that helps users learn French, focusing on vocabulary, grammar exercises, and interactive language practice.", "category": "Website"}
+{"id": 82, "prompt": "Create a virtual 3D interface for a dog grooming service, allowing users to interact with various grooming tools and techniques.", "category": "3D Design"}
+{"id": 83, "prompt": "An online service similar to ChatGPT, offering users a space for engaging in text-based conversations and accessing information.", "category": "Website"}
+{"id": 84, "prompt": "Create a user-friendly dashboard to effectively present ulogs from px4/robotics, making the data easy to understand and visually appealing.", "category": "Website"}
+{"id": 85, "prompt": "A website about the classic Monopoly board game, focusing on its rules, strategies, and tips for players to enhance their gaming experience.", "category": "Website"}
+{"id": 86, "prompt": "Could you create an animation for a modal that starts as a single line and smoothly grows to show all its content, expanding its size completely?", "category": "Website"}
+{"id": 87, "prompt": "Create a homepage for a company specializing in AI-generated music, incorporating design elements similar to shadcn for a modern appearance.", "category": "Website"}
+{"id": 88, "prompt": "Design an innovative and top-notch homepage for a SaaS business, highlighting its unique features and engaging user experience.", "category": "Website"}
+{"id": 89, "prompt": "Illustrate the disparity between male and female participation in technology startups through interactive graphs and charts.", "category": "Data Visualization"}
+{"id": 90, "prompt": "Create a tool that automatically tests website functionality and performance.", "category": "Website"}
+{"id": 91, "prompt": "Interface for tracking and analyzing ad performance metrics on a reporting dashboard.", "category": "Website"}
+{"id": 92, "prompt": "Create a realistic landing page for Y Combinator. Use their official website, https://www.ycombinator.com/, as a reference to guide your design and content choices.", "category": "Website"}
+{"id": 93, "prompt": "Create an extraordinary, fully holographic HTML single-page site for DeepSeek 3.1. Go beyond expectations with additional holograms. Ensure the site is both functional and distinctive. Don't be concerned about size limitations; we can pick up where we leave off.", "category": "Website"}
+{"id": 94, "prompt": "Create an interface to display and interact with data from a pinecone database, using dynamic charts and graphs for an engaging experience.", "category": "Data Visualization"}
+{"id": 95, "prompt": "Design a sleek and modern user interface for a website focused on current stock trends, drawing inspiration from platforms like Shadcn or Figma for a polished appearance.", "category": "Website"}
+{"id": 96, "prompt": "You're crafting a game inspired by Undertale with pixel art and indie vibes. Design a basic indoor space with tiled flooring, featuring a human and a goat. The human navigates using WASD keys. The room includes a bed, and interacting with the goat or bed triggers conversations.", "category": "Website"}
+{"id": 97, "prompt": "Create an interface for a digital banking platform that allows users to manage their accounts and transactions seamlessly.", "category": "Website"}
+{"id": 98, "prompt": "A stunning seaside view with waves gently rolling onto the shore, reminiscent of the tranquil beauty of Carmel by the Sea.", "category": "3D Design"}
+{"id": 99, "prompt": "Create an application with a user interface similar to Discord, focusing on chat features and community interaction.", "category": "Website"}
+{"id": 100, "prompt": "A website featuring a bold and minimalist design for an online store, emphasizing striking visual elements and straightforward user navigation.", "category": "Website"}
+{"id": 101, "prompt": "Create a user-friendly interface for a sports wagering platform, focusing on easy navigation and clear access to betting options and information.", "category": "Website"}
+{"id": 102, "prompt": "Create a blocky virtual landscape reminiscent of Minecraft, where players can explore and interact with a pixelated 3D world.", "category": "3D Design"}
+{"id": 103, "prompt": "A virtual sun that provides realistic lighting effects and shadows as it moves across a 3D landscape.", "category": "3D Design"}
+{"id": 104, "prompt": "Create a personal website with a retro Web 1.0 feel, drawing inspiration from arcprize.org, but with a unique touch and modern usability.", "category": "Website"}
+{"id": 105, "prompt": "Create a 3D representation of a Rubik's Cube, allowing users to explore and manipulate it.", "category": "3D Design"}
+{"id": 106, "prompt": "A website dedicated to showcasing a hair salon's services, featuring appointment booking, stylist profiles, and customer reviews.", "category": "Website"}
+{"id": 107, "prompt": "Design a lively forum space with organized discussion threads, a system for voting on posts, user badges for achievements, and a layout that adapts seamlessly to different devices.", "category": "Game Dev"}
+{"id": 108, "prompt": "Explore dynamic charts illustrating the trends and patterns in charger sales, allowing users to interactively filter and analyze the data for deeper insights.", "category": "Data Visualization"}
+{"id": 109, "prompt": "Create the user interface for an online store, focusing on product pages, shopping cart features, and smooth navigation.", "category": "Website"}
+{"id": 110, "prompt": "Create an interactive browser-based Go game, focusing on intuitive play mechanics and an engaging experience for players.", "category": "Game Dev"}
+{"id": 111, "prompt": "A website for booking and exploring hotels.", "category": "Website"}
+{"id": 112, "prompt": "Create an interactive Tic-Tac-Toe game for the browser, allowing two players to take turns marking Xs and Os on a 3x3 grid.", "category": "Game Dev"}
+{"id": 113, "prompt": "Develop a platform to evaluate and contrast the performance metrics of various soccer players.", "category": "Website"}
+{"id": 114, "prompt": "Create an interface for administrators managing machine learning applications, focusing on intuitive navigation and efficient data handling.", "category": "Website"}
+{"id": 115, "prompt": "Create a 3D model of a charming, tiny robot that resembles a mix between a baby penguin and an old-fashioned toy robot. It features a large, rounded head with a big digital eye, an adorable pear-shaped body, short legs with rounded feet for waddling, and small pincer-like arms that sway as it moves. The robot is predominantly white with pastel highlights, like mint green or baby blue, and has a smooth, matte finish. Include a simple animation of the robot taking a few awkward, waddling steps, its head bobbing and arms swinging gently.", "category": "3D Design"}
+{"id": 116, "prompt": "Create a user-friendly interface to assist in drafting detailed product requirement documents efficiently.", "category": "Website"}
+{"id": 117, "prompt": "Create an interactive platform for scientists to share ideas and research, fostering collaboration and discussion among professionals in various fields.", "category": "Website"}
+{"id": 118, "prompt": "Create a task management application with a design inspired by OpenAI.", "category": "Website"}
+{"id": 119, "prompt": "Create a fantastic farming game reminiscent of Hay Day, focusing on cultivating crops and raising animals.", "category": "Website"}
+{"id": 120, "prompt": "Create an interface for a site dedicated to a game development toolkit, highlighting features, user guides, and community forums.", "category": "Website"}
+{"id": 121, "prompt": "Create a user interface for a small caf\u00e9 located in a Dutch coastal village, focusing on local charm and simplicity.", "category": "Website"}
+{"id": 122, "prompt": "Design a user interface for Olga Pudrovska's website, where she showcases her creative shadow art and 3D-printed kinetic sculptures. Make sure the UI reflects her artistic style and unique creations.", "category": "Website"}
+{"id": 123, "prompt": "A 3D lamp that players can turn on and off or adjust brightness, creating an interactive gaming element.", "category": "Game Dev"}
+{"id": 124, "prompt": "Create a similar platform to LinkedIn, focusing on professional networking, user profiles, and job opportunities.", "category": "Website"}
+{"id": 125, "prompt": "Create a browser-based adventure game inspired by Elden Ring, featuring immersive gameplay, intricate combat mechanics, and an expansive world to explore.", "category": "Game Dev"}
+{"id": 126, "prompt": "A website dedicated to marathon preparation, offering expert guidance and motivation for runners gearing up for a race in 10 weeks.", "category": "Website"}
+{"id": 127, "prompt": "Design a lifelike representation of the human brain, capturing its intricate folds and textures in a virtual 3D environment.", "category": "3D Design"}
+{"id": 128, "prompt": "Create a mobile interface for RocketScanner, a barcode scanning tool, with three scanning options: manual entry, camera scan, and image upload. The top features a navigation bar with a menu icon, notifications, and user info. The main section includes tabs for \"Manual Barcode,\" \"Camera,\" and \"Upload,\" with a text field for entering barcodes and an \"Add to Queue\" button. The \"Scan Status\" area allows setting inventory numbers and selecting a default consignor. At the bottom, there's a message block with an icon and text reading \"Read.\"", "category": "Website"}
+{"id": 129, "prompt": "Create a dark-themed AI chatbot that visualizes financial regulations with sleek, NSA-inspired graphics and interactive data charts.", "category": "Data Visualization"}
+{"id": 130, "prompt": "Design a dynamic 3D logo featuring the words \"flux\" and \"new,\" highlighting movement and innovation.", "category": "3D Design"}
+{"id": 131, "prompt": "Create a user interface for a house hunting app where users can input and bookmark property addresses they're considering. Include options for scheduling tours, tracking tour dates, and marking favorites. Integrate a map to visualize property locations with filters to plan efficient tour routes. Consider a catchy name and additional features to enhance the buying or renting process.", "category": "Website"}
+{"id": 132, "prompt": "Create a user interface for a wellness center website.", "category": "Website"}
+{"id": 133, "prompt": "Create a platform to help students prepare for the SAT, offering study resources and practice tests.", "category": "Website"}
+{"id": 134, "prompt": "A site dedicated to exploring video games, covering various genres, reviews, and player tips.", "category": "Website"}
+{"id": 135, "prompt": "A website about yc, highlighting its main content, purpose, and how users can interact with it.", "category": "Website"}
+{"id": 136, "prompt": "Create interactive charts displaying U.S. crime rates by race, adjusted for population size, for insightful exploration of societal trends.", "category": "Data Visualization"}
+{"id": 137, "prompt": "Create a user interface for a game-building platform. Users should drag and drop items into the game area, with a section for game prompts. Design it with a minimalist retro arcade feel, similar to Arcada.dev, ensuring excellent UI and UX.", "category": "Website"}
+{"id": 138, "prompt": "Create an interface for a sophisticated RAG application tailored to the legal sector, focusing on usability and seamless navigation.", "category": "Website"}
+{"id": 139, "prompt": "Create a captivating version of Tetris, focusing on seamless gameplay and engaging features to enhance the player's experience.", "category": "Game Dev"}
+{"id": 140, "prompt": "Design a contemporary and youthful Islamic portfolio for \"Dr. Mufti Faisal Fida.\" He has actively supported Palestine for years, participating in five protests and ten boycotts. He has earned numerous accolades from leaders in Iran, UAE, and Saudi Arabia.", "category": "Website"}
+{"id": 141, "prompt": "Create a captivating 3D model that draws users in with its intricate design and interactive elements.", "category": "3D Design"}
+{"id": 142, "prompt": "Create an interface for a website that analyzes stock data, focusing on user-friendly navigation and clear presentation of financial insights.", "category": "Website"}
+{"id": 143, "prompt": "Create a virtual world inspired by Minecraft, where users can explore and interact with 3D landscapes and structures.", "category": "3D Design"}
+{"id": 144, "prompt": "Create a phone-compatible interface that lets users personalize a 3D animal character, selecting options for fur hue, tail design, eye type, and various accessories like hats or collars.", "category": "3D Design"}
+{"id": 145, "prompt": "Create the user interface for a fast-paced multiplayer card game where players can compete in real time.", "category": "Game Dev"}
+{"id": 146, "prompt": "A matchmaking platform tailored for computer science enthusiasts and tech aficionados.", "category": "Website"}
+{"id": 147, "prompt": "Create a homepage for an innovative design firm, highlighting their unique services and creative portfolio.", "category": "Website"}
+{"id": 148, "prompt": "Could you create interactive plots showing the dispersion interactions of molecules for me?", "category": "Data Visualization"}
+{"id": 149, "prompt": "Create a modern, streamlined interface for a health and fitness site. Use subtle colors and incorporate floating design elements for a futuristic feel.", "category": "Website"}
+{"id": 150, "prompt": "Create a personal portfolio site featuring innovative animations to showcase your work.", "category": "Website"}
+{"id": 151, "prompt": "Create a fantasy-style interface for an AI that instantly creates Dungeons & Dragons adventures. Features should include interactive map creation, NPC voice alteration, and a tool for generating unexpected story twists.", "category": "Website"}
+{"id": 152, "prompt": "Create an engaging regional COVID-19 dashboard that allows users to explore and interact with up-to-date data visualizations.", "category": "Data Visualization"}
+{"id": 153, "prompt": "Create an interactive map highlighting key locations in Schaumburg, Illinois, such as parks, schools, and shopping centers.", "category": "Website"}
+{"id": 154, "prompt": "Implement code injection on a Ghost website to feature three cards prominently at the top, with blog posts neatly enclosed in boxes. The design appears professional with a sans-serif font, ideal for displaying visual data analysis and subsequent blog content.", "category": "Website"}
+{"id": 155, "prompt": "Create an interactive 3D representation of a tiger, allowing users to explore its features and movement.", "category": "3D Design"}
+{"id": 156, "prompt": "Create a lifelike 3D representation of Iron Man's suit, ensuring meticulous attention to detail for a highly realistic appearance.", "category": "3D Design"}
+{"id": 157, "prompt": "A contemporary software platform that offers cloud-based solutions.", "category": "Website"}
+{"id": 158, "prompt": "A robot strolling through a bustling city street.", "category": "3D Design"}
+{"id": 159, "prompt": "Interactive Mario-themed browser game UI", "category": "Game Dev"}
+{"id": 160, "prompt": "Create a website focused on Berlin's hip-hop dance community. It should feature the latest details on classes, workshops, and festivals, along with profiles of instructors and venues. Users can explore events by instructor or location, getting detailed insights.", "category": "Website"}
+{"id": 161, "prompt": "Create an interactive 3D representation of the solar system, allowing users to explore planets and their orbits.", "category": "3D Design"}
+{"id": 162, "prompt": "Create an HTML-based game featuring protogen characters, focusing on engaging gameplay mechanics and interactive elements.", "category": "Game Dev"}
+{"id": 163, "prompt": "Develop a simulation of meteor physics with a central Earth model. Users can click to launch a meteor, and adjust its physics settings for a more immersive experience.", "category": "3D Design"}
+{"id": 164, "prompt": "Create an interface for a hair salon website that highlights services, stylist profiles, and booking options.", "category": "Website"}
+{"id": 165, "prompt": "Create an interactive crossword game where players can solve clues directly in their browser.", "category": "Game Dev"}
+{"id": 166, "prompt": "Show how happiness levels vary with age for an average person living in Poland through an interactive graph.", "category": "Data Visualization"}
+{"id": 167, "prompt": "A 3D airplane game designed for mobile devices, featuring intuitive touch controls for an immersive flying experience.", "category": "Game Dev"}
+{"id": 168, "prompt": "Create a homepage for a company that specializes in AI-driven advertisement testing services.", "category": "Website"}
+{"id": 169, "prompt": "Create an intricate 3D representation of the human brain using three.js, ensuring every detail mirrors the complexity and accuracy of a real brain.", "category": "3D Design"}
+{"id": 170, "prompt": "Create an interactive scene featuring a rotating tennis ball that moves vertically, mimicking a real bounce.", "category": "3D Design"}
+{"id": 171, "prompt": "Create an interface for a 3D basketball court dashboard, allowing users to interact with player stats and game highlights.", "category": "3D Design"}
+{"id": 172, "prompt": "Create a 3D airplane model, allowing users to explore its features and design.", "category": "3D Design"}
+{"id": 173, "prompt": "Design a virtual environment where players can navigate and explore a 3D world.", "category": "3D Design"}
+{"id": 174, "prompt": "A basic 2D side-scrolling game where players control dogs navigating through various levels.", "category": "Game Dev"}
+{"id": 175, "prompt": "Create an interactive 3D representation of Mars, complete with realistic terrain and atmospheric effects.", "category": "3D Design"}
+{"id": 176, "prompt": "Create a game where young children help a playful cat catch colorful fish in a pond.", "category": "Game Dev"}
+{"id": 177, "prompt": "Create a chibi version of Reinhardt from Overwatch in a 3D model, emphasizing cute proportions and playful design.", "category": "3D Design"}
+{"id": 178, "prompt": "Design a user-friendly interface for a weekly planner, allowing individuals to add and organize appointments or tasks across various days.", "category": "Website"}
+{"id": 179, "prompt": "Create an online platform for students to manage their study schedules, track assignments, and access educational resources.", "category": "Website"}
+{"id": 180, "prompt": "Develop an interactive word puzzle game where players guess a hidden word within a limited number of tries.", "category": "Game Dev"}
+{"id": 181, "prompt": "Design a website offering guidance on gaming with Linux, covering distro setup, Steam and Heroic Launcher installation, Proton usage, troubleshooting Wine errors, switching Proton versions, adding Wine libraries, improving compatibility with Wayland, and streaming with OBS Studio.", "category": "Website"}
+{"id": 182, "prompt": "Travel plan interface", "category": "Website"}
+{"id": 183, "prompt": "Create a virtual layout for an apartment's interior, allowing users to explore different furniture arrangements and decor styles.", "category": "3D Design"}
+{"id": 184, "prompt": "Create the user interface for a financial application, focusing on seamless navigation and efficient data presentation.", "category": "Website"}
+{"id": 185, "prompt": "A duplicate of the Pinterest main page, showcasing a comprehensive collection of visual content and user-friendly navigation.", "category": "Website"}
+{"id": 186, "prompt": "Create an interactive globe with 3D features for users to explore different parts of the world.", "category": "Website"}
+{"id": 187, "prompt": "A lifelike chat platform featuring a visually appealing AI woman as the virtual assistant.", "category": "Website"}
+{"id": 188, "prompt": "A fluffy pink-furred shark character.", "category": "3D Design"}
+{"id": 189, "prompt": "User-friendly interface for viewing hockey stats", "category": "Website"}
+{"id": 190, "prompt": "Create a user interface for a hair salon's website, highlighting services, booking options, and stylist profiles.", "category": "Website"}
+{"id": 191, "prompt": "Create a stunning and immersive opening for the game, capturing the essence of Undertale with vibrant visuals and captivating storytelling.", "category": "Game Dev"}
+{"id": 192, "prompt": "Create a whimsical button component for websites, offering various styles and states to suit different scenarios.", "category": "Website"}
+{"id": 193, "prompt": "Create a simple interface for a computer science student's personal site, highlighting their projects and skills.", "category": "Website"}
+{"id": 194, "prompt": "Create a platform for booking airline tickets online.", "category": "Website"}
+{"id": 195, "prompt": "Create a platform to monitor and analyze stock market movements.", "category": "Website"}
+{"id": 196, "prompt": "Create a captivating new twist on Scrabble that keeps players engaged, featuring unique rules and challenges.", "category": "Game Dev"}
+{"id": 197, "prompt": "Develop a dashboard for API management where users can view recent activities, access summary statistics, and handle API keys efficiently.", "category": "Website"}
+{"id": 198, "prompt": "Create an interface for a real estate website focused on selling homes.", "category": "Website"}
+{"id": 199, "prompt": "Create an engaging word-guessing game, similar to Wordle, where players attempt to find the correct word within a limited number of tries.", "category": "Game Dev"}
+{"id": 200, "prompt": "Design an admin interface where users can list, filter, and search collections. Each collection includes versions with an ordered list of blueprint ARNs, plus details like availability, JSON metadata, and creation date. Enable creation and editing of new versions, modifying blueprints and metadata.", "category": "Website"}
+{"id": 201, "prompt": "Design an interface for an application that manages a collection of books, allowing users to easily catalog and search through their library.", "category": "Website"}
+{"id": 202, "prompt": "Create a colorful 2D snake game where players guide a snake to eat apples, growing longer with each bite, while avoiding obstacles and the snake's own tail.", "category": "Game Dev"}
+{"id": 203, "prompt": "Create an interactive interface for a hair salon website, highlighting services, booking options, and client testimonials.", "category": "Website"}
+{"id": 204, "prompt": "Create an online platform for buying and selling goods, featuring user-friendly navigation and secure transaction processes.", "category": "Website"}
+{"id": 205, "prompt": "Create a platform similar to GitHub, focusing on code collaboration and version control.", "category": "Website"}
+{"id": 206, "prompt": "Create a futuristic animation where a modal appears with a teleport-like effect, featuring shapes bursting in the background. Ensure the modals pop up in various locations on the screen for added dynamism.", "category": "Game Dev"}
+{"id": 207, "prompt": "A website featuring a Mario-inspired game that offers various stages, including exciting challenges like Bowser's castle.", "category": "Website"}
+{"id": 208, "prompt": "Design a homepage for Instagram that highlights user posts, stories, and notifications, emphasizing intuitive navigation and interaction.", "category": "Website"}
+{"id": 209, "prompt": "Create a web-based spreadsheet application similar to Excel, allowing users to input data, perform calculations, and organize information efficiently.", "category": "Website"}
+{"id": 210, "prompt": "Create an online platform for a hackerspace located in Singapore, highlighting its mission, events, and membership opportunities.", "category": "Website"}
+{"id": 211, "prompt": "Create an interactive version of Conway's Game of Life that immerses players in a dynamic grid, where cells evolve based on neighboring conditions.", "category": "Game Dev"}
+{"id": 212, "prompt": "Create an interactive game where players can customize characters with various outfits and accessories.", "category": "Game Dev"}
+{"id": 213, "prompt": "Develop a highly advanced chess game where two computer opponents face off in a thrilling one-on-one match.", "category": "Game Dev"}
+{"id": 214, "prompt": "Create a platform for a venture studio dedicated to climate solutions and AI innovations, highlighting its mission and user engagement features.", "category": "Website"}
+{"id": 215, "prompt": "Create a chilling interface for a real estate site featuring haunted homes. Add spectral figures to property images, a 'ghost activity' gauge, and creepy sound effects when users hover over elements.", "category": "Website"}
+{"id": 216, "prompt": "Develop a browser-based game similar to Balatro, focusing on engaging gameplay and interactive elements.", "category": "Game Dev"}
+{"id": 217, "prompt": "Create a 3D model of a moving train, complete with realistic motion and sound effects.", "category": "3D Design"}
+{"id": 218, "prompt": "Create a platform for listening to audiobooks.", "category": "Website"}
+{"id": 219, "prompt": "Create a user interface similar to Spotify's, focusing on music navigation and playback features.", "category": "Website"}
+{"id": 220, "prompt": "Create a user interface for a dashboard that effectively displays key metrics and user interactions.", "category": "Website"}
+{"id": 221, "prompt": "Design an interface for a city council website, highlighting essential services, community initiatives, and user-friendly navigation for residents.", "category": "Website"}
+{"id": 222, "prompt": "Ultimate racing experience", "category": "3D Design"}
+{"id": 223, "prompt": "Create a website where users can engage with a virtual girlfriend through an AI-powered chatbot, offering a personalized and interactive experience.", "category": "Website"}
+{"id": 224, "prompt": "Design a detailed 3D model of an imaginative planet featuring realistic landscapes, including mountains, seas, craters, and deserts. Add atmospheric effects like clouds and optional rings. Ensure it is spherical and ideal for space simulations, using various texture maps for real-time rendering. Aim for Earth-like precision with creative features, such as teal seas and glowing ice caps.", "category": "3D Design"}
+{"id": 225, "prompt": "Design a mobile-friendly app where users can swipe to the left to pass or to the right to connect with potential dog playmates, similar to a canine matchmaking service.", "category": "Website"}
+{"id": 226, "prompt": "A top-notch hair salon offering exceptional styling and personalized services.", "category": "Website"}
+{"id": 227, "prompt": "Design a three-dimensional representation of Reimu Hakurei from the Touhou Project, capturing her iconic features and allowing for user interaction.", "category": "3D Design"}
+{"id": 228, "prompt": "A browser game inspired by Mario Bros, featuring platforming challenges and engaging gameplay mechanics.", "category": "Game Dev"}
+{"id": 229, "prompt": "Create a browser-based game inspired by Bonkheads, focusing on fun gameplay and engaging mechanics.", "category": "Game Dev"}
+{"id": 230, "prompt": "Create a detailed 3D helicopter model, complete with rotors and landing skids, for an immersive virtual experience.", "category": "3D Design"}
+{"id": 231, "prompt": "Create a user-friendly interface for a site focused on marine biology, featuring engaging content about ocean life and interactive elements for learning.", "category": "Website"}
+{"id": 232, "prompt": "Create a webpage dedicated to showcasing various cookie recipes and tips for baking them, with sections for user reviews and interactive baking tutorials.", "category": "Website"}
+{"id": 233, "prompt": "Create a dashboard for a GPU rental service that shows the expenses associated with computing usage.", "category": "Website"}
+{"id": 234, "prompt": "Design a website with 3D elements that move when you scroll. Choose the website's theme and its purpose according to your preference.", "category": "Website"}
+{"id": 235, "prompt": "Create a user interface for a website that offers book summaries. Users can explore summaries of entire books, individual chapters, and detailed information about characters.", "category": "Website"}
+{"id": 236, "prompt": "Create a 3D model of Pikachu, complete with realistic textures and interactive features for an immersive experience.", "category": "3D Design"}
+{"id": 237, "prompt": "As a skilled web developer and designer, study WhatsApp's Material 3-based design system to create a versatile button component. It should include default, destructive, and media types, with options for text, icon, or both. Offer three sizes and four styles\u2014filled, tonal, outlined, and borderless. Ensure it supports focus, hover, press, disabled, and loading states with a spinner replacing the icon.", "category": "Website"}
+{"id": 238, "prompt": "Create a lifelike 3D representation of an elephant, capturing its intricate details and natural movements.", "category": "3D Design"}
+{"id": 239, "prompt": "Create an interface for an administrator control panel to manage site content efficiently.", "category": "Website"}
+{"id": 240, "prompt": "Create an online platform for overseeing and organizing cloud infrastructure and resources.", "category": "Website"}
+{"id": 241, "prompt": "Create a transparent glass-like interface element for enhanced visual appeal on the site.", "category": "Website"}
+{"id": 242, "prompt": "Create a game where players manage a restaurant, making decisions on staffing, menu, and upgrades while profits accumulate over time.", "category": "Game Dev"}
+{"id": 243, "prompt": "Create an interactive Formula 1 racing circuit with dynamic elements and user-controlled vehicles.", "category": "3D Design"}
+{"id": 244, "prompt": "Create a personal portfolio website showcasing a UX/UI designer's projects, skills, and professional journey, with an emphasis on user-friendly design and engaging content.", "category": "Website"}
+{"id": 245, "prompt": "Create a website dedicated to the 2026 World Cup hosted in the United States, highlighting match schedules, team profiles, and fan experiences.", "category": "Website"}
+{"id": 246, "prompt": "Design a user interface that closely resembles Apple Music, capturing its layout, features, and user-friendly navigation.", "category": "Website"}
+{"id": 247, "prompt": "A webpage dedicated to Mario Kart, featuring game insights, character profiles, race tracks, and tips for enhancing gameplay experience.", "category": "Website"}
+{"id": 248, "prompt": "Create a website offering legal assistance and advice.", "category": "Website"}
+{"id": 249, "prompt": "Create a user interface for displaying a coffee shop's menu, highlighting beverages and snacks.", "category": "Website"}
+{"id": 250, "prompt": "Create a user-friendly interface for an application that sells event tickets, focusing on seamless navigation and easy-to-use features for purchasing and managing tickets.", "category": "Website"}
+{"id": 251, "prompt": "Design a three-dimensional dragon balancing a shiny green apple atop its head.", "category": "3D Design"}
+{"id": 252, "prompt": "Create a website dedicated to exploring New York City, highlighting its attractions, events, and local culture.", "category": "Website"}
+{"id": 253, "prompt": "Create a duplicate of the entire Apple Store website, including all its features and functionalities.", "category": "Website"}
+{"id": 254, "prompt": "Create an interface for an online store, focusing on user-friendly navigation and showcasing products effectively.", "category": "Website"}
+{"id": 255, "prompt": "Explore the rise in global temperatures over the last century with interactive graphs, highlighting key trends and significant shifts in climate patterns.", "category": "Data Visualization"}
+{"id": 256, "prompt": "A website dedicated to information and resources about vitamins.", "category": "Website"}
+{"id": 257, "prompt": "Create a stunning urban skyline featuring bustling streets filled with cars and yellow taxis.", "category": "3D Design"}
+{"id": 258, "prompt": "Design an interactive chart to analyze and display user comments from my webpage, highlighting the frequency and sentiment of the feedback.", "category": "Data Visualization"}
+{"id": 259, "prompt": "Design a stylish and safe checkout interface for a luxury watch shop, featuring a progress tracker and concise order and payment summaries to ensure a smooth and transparent purchasing experience.", "category": "Website"}
+{"id": 260, "prompt": "Design an eye-catching spinner animation with smooth rotations and vibrant colors to enhance its aesthetic appeal and beauty.", "category": "3D Design"}
+{"id": 261, "prompt": "Create a 3D model of a cow featuring an udder, focusing on realistic texture and movement.", "category": "3D Design"}
+{"id": 262, "prompt": "Create an online store for an eco-friendly fashion brand, focusing on user-friendly navigation and highlighting sustainable practices.", "category": "Website"}
+{"id": 263, "prompt": "Create an elegant user interface for a site dedicated to auctioning Pok\u00e9mon cards, ensuring smooth navigation and easy bidding features.", "category": "Website"}
+{"id": 264, "prompt": "Create an enjoyable mobile game focused on constructing various structures, offering players engaging challenges and creative freedom.", "category": "Game Dev"}
+{"id": 265, "prompt": "Display a 3D model of a helicopter, allowing users to explore its details by rotating and zooming.", "category": "3D Design"}
+{"id": 266, "prompt": "Homepage for a game engine, highlighting features and user benefits.", "category": "Website"}
+{"id": 267, "prompt": "Create a card game similar to blackjack, where you can choose cards from your hand to deal, adding a strategic twist to the gameplay.", "category": "Game Dev"}
+{"id": 268, "prompt": "Develop a user-friendly text editor that allows real-time editing and formatting, similar to how the final document will appear, enhancing the content creation process.", "category": "Website"}
+{"id": 269, "prompt": "Design a browser-based Pac-Man game where players navigate mazes, collect dots, and evade ghosts for an engaging and interactive experience.", "category": "Game Dev"}
+{"id": 270, "prompt": "Create a product page for a skincare line focusing on sustainability and eco-friendliness. The design should be minimalistic with an earthy feel, highlighting natural ingredients through quality images.", "category": "Website"}
+{"id": 271, "prompt": "Create a three-dimensional helicopter model, focusing on its intricate design and interactive features.", "category": "3D Design"}
+{"id": 272, "prompt": "Create an interface to monitor personal finances and track net worth.", "category": "Website"}
+{"id": 273, "prompt": "Create an interactive 3D Rubik\u2019s Cube that spins smoothly, allowing users to manipulate and solve it virtually.", "category": "3D Design"}
+{"id": 274, "prompt": "Create a user-friendly interface for purchasing tickets to rock concerts and events.", "category": "Website"}
+{"id": 275, "prompt": "I want a website for an Argentine bakery featuring scrolling animations as users browse through various baked goods.", "category": "Website"}
+{"id": 276, "prompt": "An adorable anime-style girl brought to life with realistic features.", "category": "3D Design"}
+{"id": 277, "prompt": "Create a design for a pizza restaurant's website, highlighting their menu and online ordering feature.", "category": "Website"}
+{"id": 278, "prompt": "A Shopify plugin that allows you to conduct A/B tests on product pricing, images, and titles to optimize sales.", "category": "Website"}
+{"id": 279, "prompt": "Create a user interface for a grocery shopping list powered by AI, featuring a warm orange pastel watercolor theme. The bottom navigation bar connects to the AI agent and various app sections. Items are categorized by grocery store areas, each with a matching icon, following a sleek, modern iOS design.", "category": "Website"}
+{"id": 280, "prompt": "Countries with the highest number of racists relative to their population size.", "category": "Data Visualization"}
+{"id": 281, "prompt": "Create a website for data analysis where users can upload CSV files and visualize the information through interactive charts and graphs.", "category": "Website"}
+{"id": 282, "prompt": "An advanced website for a robotics firm, featuring intricate animations and interactive elements.", "category": "Website"}
+{"id": 283, "prompt": "A classic block-stacking puzzle game where players rotate and arrange falling shapes to complete full rows and clear them from the screen.", "category": "Game Dev"}
+{"id": 284, "prompt": "An intricately crafted leaf with realistic textures and veins.", "category": "3D Design"}
+{"id": 285, "prompt": "Create a social media platform similar to Twitter, allowing users to share short messages and engage with others through likes, comments, and retweets.", "category": "Website"}
+{"id": 286, "prompt": "Create an online platform for a fashion influencer to showcase trends, style tips, and personal insights.", "category": "Website"}
+{"id": 287, "prompt": "Create an interface for an online platform where users can exchange and discover apps.", "category": "Website"}
+{"id": 288, "prompt": "Create a website that formats JSON data for easy readability and editing.", "category": "Website"}
+{"id": 289, "prompt": "Design an engaging visual map of keyword groups for the search \"best telescope for beginners.\" Create imaginative related keywords and clusters. Ensure the chart is visually appealing and allows users to explore different data layers easily.", "category": "Data Visualization"}
+{"id": 290, "prompt": "Create an online store for selling mystical items, designed with a retro 1980s vibe. Include flickering flame animations and a vintage background to capture the nostalgic feel.", "category": "Website"}
+{"id": 291, "prompt": "Develop a browser-based platform similar to Roblox Studio, enabling users to create and modify virtual worlds online.", "category": "Website"}
+{"id": 292, "prompt": "Design a landing page for a book-themed social media app, highlighting its features and engaging community.", "category": "Website"}
+{"id": 293, "prompt": "Create a website for an artist named CyborgSkins who specializes in stick and poke tattoos, highlighting their unique style and portfolio.", "category": "Website"}
+{"id": 294, "prompt": "Design a single-page box score for Game 7 of the NBA Finals tonight, predicting the winner between the Pacers and Thunder, along with the projected final score and team statistics.", "category": "Website"}
+{"id": 295, "prompt": "Interface design for a Mario-style platformer, focusing on player interaction and enjoyable gameplay elements.", "category": "Game Dev"}
+{"id": 296, "prompt": "Create a website to market and sell premium business footwear, highlighting their quality and craftsmanship.", "category": "Website"}
+{"id": 297, "prompt": "Develop a game similar to Flappy Bird, where players navigate a bird through obstacles by tapping to keep it airborne.", "category": "Game Dev"}
+{"id": 298, "prompt": "A modern AI SaaS company's website that creates cloud solutions, featuring a sleek and minimalist design similar to Vercel's aesthetic.", "category": "Website"}
+{"id": 299, "prompt": "Design a lifelike rotating globe model that spins smoothly and continuously.", "category": "Website"}
+{"id": 300, "prompt": "Create a site that displays available Pok\u00e9mon card packs for purchase.", "category": "Website"}
+{"id": 301, "prompt": "Create an interface for organizing a travel itinerary, allowing users to plan trips by selecting destinations, dates, and activities.", "category": "Website"}
+{"id": 302, "prompt": "Create a user interface for a Stanford club's website to enhance member engagement and showcase events.", "category": "Website"}
+{"id": 303, "prompt": "Create an immersive Minecraft-style adventure game using ThreeJS, featuring lifelike graphics and a bustling village. Players can engage with villagers to uncover intriguing tales about Minecraft music videos on YouTube.", "category": "Game Dev"}
+{"id": 304, "prompt": "Develop a site that monitors worldwide pizza topping trends live, featuring interactive maps, insights into cultural preferences, and a 'Pizza Diplomacy' area highlighting toppings that bring countries together or cause debates.", "category": "Website"}
+{"id": 305, "prompt": "Create an interface for a Mario-themed game website, focusing on intuitive navigation and engaging design.", "category": "Website"}
+{"id": 306, "prompt": "A thrilling browser-based racing game where players compete in high-speed challenges, navigating through dynamic tracks and obstacles to cross the finish line first.", "category": "Game Dev"}
+{"id": 307, "prompt": "Create a user-friendly interface for a bookstore specializing in culinary literature, making it easy for customers to browse and purchase cooking guides.", "category": "Website"}
+{"id": 308, "prompt": "Create an animated GIF for the game, showcasing exciting moments or key features to captivate players.", "category": "Game Dev"}
+{"id": 309, "prompt": "Create a delightful, easy-to-use component, like a button, that's so appealing people can't resist interacting with it. Make it satisfying and fun to use, ensuring it captivates users.", "category": "Website"}
+{"id": 310, "prompt": "Create a user interface for a barbershop that includes appointment booking, service descriptions, and stylist profiles.", "category": "Website"}
+{"id": 311, "prompt": "Create a user interface for a rule configurator that allows users to choose rules for filtering documents. It includes sets of rules, each made up of various individual rules.", "category": "Website"}
+{"id": 312, "prompt": "Create a user interface for a League of Legends website, focusing on intuitive navigation and engaging content for fans.", "category": "Website"}
+{"id": 313, "prompt": "Create an interface to keep track of movies you've watched, including features for rating and categorizing them.", "category": "Website"}
+{"id": 314, "prompt": "Create a comprehensive imitation of Zillow, highlighting property listings and user-friendly search features.", "category": "Website"}
+{"id": 315, "prompt": "Develop a user-friendly editor that allows you to see the formatted LaTeX document as you type.", "category": "Website"}
+{"id": 316, "prompt": "Create a website that connects book enthusiasts based on shared reading preferences, allowing users to join small book clubs with discussion forums and tools to track reading progress. It's a blend of Tinder, Goodreads, and Slack.", "category": "Website"}
+{"id": 317, "prompt": "Create a user-friendly interface for an online store specializing in selling various types of jerky.", "category": "Website"}
+{"id": 318, "prompt": "Develop a fun memory game featuring a grid of fruit emojis. Allow players to adjust the grid's dimensions for a personalized challenge. Ensure the design is playful and engaging.", "category": "Game Dev"}
+{"id": 319, "prompt": "Create a user interface for an online vape store, focusing on product display and easy navigation.", "category": "Website"}
+{"id": 320, "prompt": "Create a browser-based game inspired by Pok\u00e9mon HeartGold, featuring captivating battles and exploration in a rich virtual world.", "category": "Game Dev"}
+{"id": 321, "prompt": "Design an interactive chart to display insights from quantum computing studies, allowing users to explore complex data trends and relationships.", "category": "Data Visualization"}
+{"id": 322, "prompt": "Develop a user interface for a startup accelerator's website that enhances user engagement and showcases innovative projects.", "category": "Website"}
+{"id": 323, "prompt": "A flawless, gleaming potato with a golden hue, rotating gracefully in a 3D scene.", "category": "3D Design"}
+{"id": 324, "prompt": "Create an interactive interface for a 3D mafia-themed game, focusing on user immersion and engagement.", "category": "3D Design"}
+{"id": 325, "prompt": "Create a user interface for a movie tracking site using a black and turquoise color scheme. Include sections for displaying the movie's poster, title, and rating.", "category": "Website"}
+{"id": 326, "prompt": "Create a homepage to showcase and promote my music collection.", "category": "Website"}
+{"id": 327, "prompt": "Create a 3D representation of a standard six-sided dice, complete with numbered faces and rounded edges for a realistic look.", "category": "3D Design"}
+{"id": 328, "prompt": "Create a soothing interface for a meditation app using soft pastel colors, smooth animations, and elegant serif typefaces.", "category": "Website"}
+{"id": 329, "prompt": "I'm envisioning a generative art gallery with a gentle color transition from lavender to mint. The interface features glass-like cards and delicate, continuous animations playing softly in the background.", "category": "Website"}
+{"id": 330, "prompt": "Create a software platform for managing high-demand periods efficiently.", "category": "Website"}
+{"id": 331, "prompt": "Develop a sleek and unique website with a distinctive layout dedicated to showcasing rapper Eminem's work and persona.", "category": "Website"}
+{"id": 332, "prompt": "A simple yet addictive game where a bird flaps its wings to navigate through gaps between pipes, challenging players to achieve high scores.", "category": "Game Dev"}
+{"id": 333, "prompt": "Create an interactive model of a solar system, allowing users to explore planets orbiting a sun in 3D space.", "category": "3D Design"}
+{"id": 334, "prompt": "A 3D simulation depicting electron movement within a quadrupole mass spectrometer, illustrating how these particles navigate the electromagnetic field.", "category": "3D Design"}
+{"id": 335, "prompt": "A flowing water simulation, where users can interact with ripples and waves in a 3D environment.", "category": "3D Design"}
+{"id": 336, "prompt": "Design a website inspired by Notion and Linear, featuring gentle shadows, monospaced fonts, and a neutral color scheme.", "category": "Website"}
+{"id": 337, "prompt": "Create a mobile-friendly comparison chart with checkmarks and distinct separators for easy readability.", "category": "Website"}
+{"id": 338, "prompt": "Create a whimsical 3D helicopter with a playful design.", "category": "3D Design"}
+{"id": 339, "prompt": "Create a site similar to Design Arena, focusing on innovative design concepts and interactive user experiences.", "category": "Website"}
+{"id": 340, "prompt": "Create a stylish photo card interface where hovering triggers a gentle 3D flip effect, making the images appear to tilt slightly like a deck of cards.", "category": "UI Component"}
+{"id": 341, "prompt": "Design a pop-up for newsletter registration, featuring soothing hues, concise messaging, and optimized for smartphones.", "category": "UI Component"}
+{"id": 342, "prompt": "Create a browser-based game where players defend against alien spaceships descending from the sky.", "category": "Game Dev"}
+{"id": 343, "prompt": "Build a site using React Three Fiber with smooth animations and sleek transitions, showcasing the work of a UI designer.", "category": "Website"}
+{"id": 344, "prompt": "Here's a snapshot of an iPhone home screen with a custom widget arrangement. The interface showcases Apple's minimalist style. Let's explore it section by section. Top Half: Widgets. Left Widget \u2013 Apple Music: Features \"Today's Hits\" with album art of a man in a leather jacket. A white music note indicates it's an Apple Music widget. A prominent play button offers quick access, and the widget has a frosted glass look.", "category": "Website"}
+{"id": 345, "prompt": "Create a personal dashboard reminiscent of Wes Anderson movies, featuring a balanced design, retro-style fonts, a cozy color palette, and whimsical icons such as a small fox or a vintage vinyl player.", "category": "Website"}
+{"id": 346, "prompt": "An interactive 3D visualization of a building in progress, allowing users to explore both the inside and outside structures in detail.", "category": "Data Visualization"}
+{"id": 347, "prompt": "Design an interface for hosting game servers, allowing plenty of room for innovative features and ideas.", "category": "Website"}
+{"id": 348, "prompt": "Design a dynamic chart comparing a company's performance metrics to its market capitalization, allowing users to explore trends and correlations interactively.", "category": "Data Visualization"}
+{"id": 349, "prompt": "Create a component that is incredibly simple yet highly enjoyable. For example, a button that's so satisfying to press that users are drawn to it repeatedly.", "category": "Website"}
+{"id": 350, "prompt": "A sleek and intuitive interface for a coaching application.", "category": "Website"}
+{"id": 351, "prompt": "Create a visually appealing website featuring England as the backdrop.", "category": "Website"}
+{"id": 352, "prompt": "Create a website that evokes nostalgia, resembling the classic flying stars screensaver from Windows 3.1, with a dynamic and engaging user experience.", "category": "Website"}
+{"id": 353, "prompt": "Create an interface that helps me design and organize detailed product roadmaps.", "category": "Website"}
+{"id": 354, "prompt": "A sleek and dynamic interface for a coaching application, designed to enhance user engagement and streamline navigation.", "category": "Website"}
+{"id": 355, "prompt": "Create a simple website that conveys an immersive experience, reflecting your company's core values with a touch of creativity.", "category": "Website"}
+{"id": 356, "prompt": "Create an intuitive website that embodies your company's core principles, focusing on a minimalist design that offers an immersive user experience. Let your creativity guide the process.", "category": "Website"}
+{"id": 357, "prompt": "Create a delightfully simple component, like a button, that users find incredibly satisfying and enjoyable to interact with, making them eager to see and use it repeatedly.", "category": "Website"}
+{"id": 358, "prompt": "Design an ultra-professional dropdown menu tailored for a corporate website.", "category": "Website"}
+{"id": 359, "prompt": "Create a user-friendly interface for a fitness app that helps users plan and track their workout routines on their mobile devices.", "category": "Website"}
+{"id": 360, "prompt": "Create a sophisticated and elegant portfolio website showcasing sample projects. Picture it as a site for Bill Gates or Mark Zuckerberg, combining innovation with a sleek, polished design.", "category": "Website"}
+{"id": 361, "prompt": "Create a landing page for hosting Minecraft servers. Focus on showcasing plan details and offers, as design takes a backseat to these aspects.", "category": "Website"}
+{"id": 362, "prompt": "Create a comprehensive website that allows users to upload a SCORM 1.2 zip file, edit its components visually, and then download a modified SCORM 1.2 zip file.", "category": "Website"}
+{"id": 363, "prompt": "Create a 3D model of a Tyrannosaurus rex, allowing users to explore its features from different angles.", "category": "3D Design"}
+{"id": 364, "prompt": "A social media platform for sharing short messages and updates with followers.", "category": "Website"}
+{"id": 365, "prompt": "Create a simple yet highly enjoyable component, like a button, that users find satisfying and engaging to interact with, making them eager to see and use it repeatedly.", "category": "Website"}
+{"id": 366, "prompt": "Interactive tool for visualizing electric fields", "category": "Website"}
+{"id": 367, "prompt": "Design the most impressive website possible, ensuring it runs smoothly on mobile devices. My preference is based on both aesthetic appeal and performance efficiency.", "category": "Website"}
+{"id": 368, "prompt": "Create a website for a software-as-a-service platform.", "category": "Website"}
+{"id": 369, "prompt": "The MTG Commander Power Level Calculator analyzes a deck list by considering factors like edhrecRank, edhrecSaltiness, and median CMC. It generates a score to gauge power on a graph: under 600 indicates level 5, around 700 suggests level 6.", "category": "Website"}
+{"id": 370, "prompt": "Create a website for a SaaS platform, focusing on its key features and user engagement.", "category": "Website"}
+{"id": 371, "prompt": "A rotating 3D globe model showcasing continents and oceans, allowing users to explore different regions interactively.", "category": "3D Design"}
+{"id": 372, "prompt": "Create a website dedicated to a Minecraft Survival Multiplayer (SMP) server, highlighting its features, server rules, and community events.", "category": "Website"}
+{"id": 373, "prompt": "My friend and I, recent high school graduates, are creating a user interface for a website that offers math tutoring.", "category": "Website"}
+{"id": 374, "prompt": "Explore a cycloid curve, a unique mathematical shape formed by tracing a point on a circle's edge as it rolls along a straight line. Discover its fascinating properties and applications on our website.", "category": "Website"}
+{"id": 375, "prompt": "Create a platform for Turo hosts to track their business performance and vehicle earnings effectively.", "category": "Website"}
+{"id": 376, "prompt": "Create a smartphone game inspired by Flappy Bird, featuring a flying character that dodges obstacles to earn points.", "category": "Game Dev"}
+{"id": 377, "prompt": "Create a stylish and contemporary user interface for a news platform, emphasizing readability and easy navigation for visitors.", "category": "Website"}
+{"id": 378, "prompt": "Could you create a three-dimensional model of a dog riding a bicycle?", "category": "3D Design"}
+{"id": 379, "prompt": "Create a website with an interactive black hole theme, allowing users to drag and drop items into it, simulating accurate physics and gravitational effects.", "category": "Website"}
+{"id": 380, "prompt": "Could you create an interactive interface for a tech startup's AI event?", "category": "UI Component"}
+{"id": 381, "prompt": "Could you design an interface for a startup focused on AI events?", "category": "UI Component"}
+{"id": 382, "prompt": "Create a replica of ChatGPT, focusing on conversational features and user-friendly design.", "category": "Website"}
+{"id": 383, "prompt": "Please display an attractive and well-designed website.", "category": "Website"}
+{"id": 384, "prompt": "Create a website where users can listen to live radio stations, featuring an interface that resembles a traditional radio set, complete with tuning dials and station presets.", "category": "Website"}
+{"id": 385, "prompt": "Stunning translucent calendar pop-up with a fluid interface.", "category": "UI Component"}
+{"id": 386, "prompt": "Develop a website using React Three Fiber, incorporating smooth animations and refined transitions, to showcase the work and skills of a UI designer.", "category": "Website"}
+{"id": 387, "prompt": "Design an interface for examining intracranial EEG data analysis, ensuring it is user-friendly and provides clear insights.", "category": "Website"}
+{"id": 388, "prompt": "Create a 3D model of an east-facing Indian house, measuring 26 feet by 80 feet, with a 10-foot front yard and an 8-foot backyard.", "category": "3D Design"}
+{"id": 389, "prompt": "Create an interface for a hair salon's website, emphasizing easy navigation and showcasing services like haircuts, styling, and booking appointments.", "category": "Website"}
+{"id": 390, "prompt": "A rotating 3D representation of Earth, displaying continents and oceans in detail.", "category": "3D Design"}
+{"id": 391, "prompt": "Develop a user interface for analyzing intracranial EEG data, focusing on intuitive navigation and clear presentation of insights.", "category": "Website"}
+{"id": 392, "prompt": "Create a user-friendly interface for a website addressing intricate, costly, and emotional matters related to family court issues.", "category": "Website"}
+{"id": 393, "prompt": "As a web development expert, your job is to create UI section code for an AI chatbot that mimics four influencers' personalities and knowledge using a RAG system. Use Next.js 14, Tailwind CSS, Shadcn UI, Framer Motion, and React Three Fiber, ensuring the code is clean, modular, and responsive.", "category": "Website"}
+{"id": 394, "prompt": "Create a user interface for a website addressing family court matters, which often involve intricate, expensive, and emotionally charged subjects.", "category": "Website"}
+{"id": 395, "prompt": "Create a homepage for a venture capital company, highlighting their mission, investment focus, and key team members.", "category": "Website"}
+{"id": 396, "prompt": "Develop a webpage highlighting insights from quantum computing studies using interactive data visualizations.", "category": "Website"}
+{"id": 397, "prompt": "A website featuring a sleek, modern design with a dark theme, incorporating subtle animations and gentle blurring effects for a smooth, immersive user experience.", "category": "Website"}
+{"id": 398, "prompt": "Create graphics and elements for a tower defense game with an isometric view, themed around Olympic events.", "category": "Game Dev"}
+{"id": 399, "prompt": "A 3D representation of Peter Griffin that I can explore and interact with.", "category": "3D Design"}
+{"id": 400, "prompt": "As a web development specialist focused on UI coding, your task is to create an AI chatbot system for four influencers on a website. Use only the technologies specified by the user, like Next.js 14, ensuring the code is clean, modular, and responsive.", "category": "Website"}
+{"id": 401, "prompt": "Create a homepage inspired by Spotify's style, featuring content, text, and layout tailored for a management consultancy firm.", "category": "Website"}
+{"id": 402, "prompt": "How do we find purpose and meaning in our lives?", "category": "Website"}
+{"id": 403, "prompt": "Design a landing page for CVerified, a platform that prevents hidden job issues by verifying identities and monitoring employment. Get alerts on dual employment with real-time updates and FCRA compliance. Explore verification types and track progress easily on a secure dashboard.", "category": "Website"}
+{"id": 404, "prompt": "Develop a website featuring smooth animations and stylish transitions using React Three Fiber, highlighting the work and skills of a UI designer.", "category": "Website"}
+{"id": 405, "prompt": "Napkin Vision is a tool for developing AI-based Tasks to extract structured data from files like images and PDFs. Users can upload files, define Tasks, and create Prompts to execute these tasks. It allows the configuration of Models with specific settings to run Tasks on uploaded files, create Test Cases with expected results, and conduct Benchmarks to assess different Tasks and Models. The web interface also supports quick, on-the-fly testing and comparison during development. Make a page to handle task creation and management in this application.", "category": "Website"}
+{"id": 406, "prompt": "An interactive email server component for managing AI communications.", "category": "UI Component"}
+{"id": 407, "prompt": "Create a platform offering free educational resources and tools for those studying emergency medicine.", "category": "Website"}
+{"id": 408, "prompt": "Create a website where users can listen to a radio station, featuring an interface that mimics a traditional radio.", "category": "Website"}
+{"id": 409, "prompt": "Design a captivating real-time display of vegetable prices using sample data, styled with serif fonts for a newspaper-like feel, ensuring the visuals are engaging and informative.", "category": "Data Visualization"}
+{"id": 410, "prompt": "Create a 3D spinning Earth model using Three.js to enhance its visual appeal and realism.", "category": "3D Design"}
+{"id": 411, "prompt": "Develop a website that showcases visualizations of quantum computing research results, highlighting key discoveries and advancements in the field.", "category": "Website"}
+{"id": 412, "prompt": "Create a user-friendly interface for an app that helps users track their workout progress and form accuracy at the gym.", "category": "Website"}
+{"id": 413, "prompt": "Create a typeahead feature for the UI that efficiently and smoothly allows users to search through a list of over 200 countries. The design should prioritize a seamless user experience with quick and accurate results.", "category": "Website"}
+{"id": 414, "prompt": "Create a website where users can listen to live radio stations, featuring a user interface that resembles an actual radio device.", "category": "Website"}
+{"id": 415, "prompt": "Create a website similar to Duolingo, where users can learn chemistry, focusing on balancing chemical equations, while maintaining the same interface and design style.", "category": "Website"}
+{"id": 416, "prompt": "Create a vibrant and eye-catching anime-themed portfolio site.", "category": "Website"}
+{"id": 417, "prompt": "A site that helps users create customized recipes based on available ingredients.", "category": "Website"}
+{"id": 418, "prompt": "Create a website where users can listen to live radio stations, featuring an interface that mimics the appearance of a traditional radio.", "category": "Website"}
+{"id": 419, "prompt": "A fully-functional admin dashboard for managing an online pet shop.", "category": "Website"}
+{"id": 420, "prompt": "Create a website for Magnificante Pizzeria in Beverly Hills. Include our menu with prices: Small Pizza ($10), Large Pizza ($15), Coca Cola ($2), Breadsticks ($5), and toppings like Pepperoni and Cheese. Show contact info and an online order form. Two toppings are free; extra toppings cost $1. Address: 123 That Road, Beverly Hills 90210.", "category": "Website"}
+{"id": 421, "prompt": "Create a browser-based version of Jumpman Jr., inspired by the classic C64 game, featuring engaging levels and smooth character movement for an enjoyable player experience.", "category": "Game Dev"}
+{"id": 422, "prompt": "Create an entertaining mobile game filled with engaging challenges and captivating gameplay.", "category": "Game Dev"}
+{"id": 423, "prompt": "A snug book picker for a Book Character Analysis site, evoking a homey library vibe with a touch of warmth, as if you're nestled by a fireplace in a cozy reading nook.", "category": "UI Component"}
+{"id": 424, "prompt": "Enhance performance and fix bugs without altering key features like Action Delay. Make the extension quick so the YouTube player's progress bar doesn't freeze when skipping. Key settings include enabling the extension and shortcuts, with skip times set to 10 seconds.", "category": "UI Component"}
+{"id": 425, "prompt": "Create a React and Material-UI component that displays a popup in the bottom-right corner of a webpage, showing data such as the number of downloads and ongoing discussions.", "category": "UI Component"}
+{"id": 426, "prompt": "Create a self-hosted dashboard with an 8-bit or text-based user interface theme.", "category": "Website"}
+{"id": 427, "prompt": "Recent breakthroughs in sustainable chemistry.", "category": "Website"}
+{"id": 428, "prompt": "I want a collection of top AP scores formatted just like the College Board's site, showing a perfect score of 5 on each exam.", "category": "Website"}
+{"id": 429, "prompt": "Create a match-three puzzle game where players combine colorful candies to score points and advance to higher levels.", "category": "Game Dev"}
+{"id": 430, "prompt": "A user interface designed for a Mario-themed website, highlighting its navigation and interactive features.", "category": "Website"}
+{"id": 431, "prompt": "Imagine a book analysis site with a welcoming interface that offers detailed character explorations and summaries. The design evokes a cozy reading nook, reminiscent of a warm, fire-lit library corner.", "category": "Website"}
+{"id": 432, "prompt": "Create a user interface for a website dedicated to showcasing a variety of candies, highlighting their flavors and origins.", "category": "Website"}
+{"id": 433, "prompt": "Create an engaging 3D model of DNA that users can explore and interact with.", "category": "3D Design"}
+{"id": 434, "prompt": "A 2D pixel-style game inspired by Minecraft, where players can mine resources, build structures, and explore a blocky world.", "category": "Game Dev"}
+{"id": 435, "prompt": "Design a homepage for CVerified, which addresses the hidden job issue by using secure identity checks to ensure candidates are genuine. It also provides ongoing updates if they take on additional employment. Begin the verification process and explore the types available.", "category": "Website"}
+{"id": 436, "prompt": "A component designed to display the leaderboard rankings for language models.", "category": "UI Component"}
+{"id": 437, "prompt": "Create a vibrant and colorful to-do list website that features eye-catching animations and interactive elements.", "category": "Website"}
+{"id": 438, "prompt": "A web interface for JTL Wawi that enhances user interaction with streamlined design and intuitive navigation.", "category": "Website"}
+{"id": 439, "prompt": "Create a healthcare application designed to manage chronic diseases, focusing on tracking symptoms, medication schedules, and providing educational resources for users.", "category": "Website"}
+{"id": 440, "prompt": "Develop an advanced interactive platform featuring sharing capabilities, enhanced with 3D elements and visual effects using shaders.", "category": "Website"}
+{"id": 441, "prompt": "Design a 3D model of Earth with realistic atmospheric effects, where players control a plane navigating around the planet using touch gestures for an immersive flight experience.", "category": "Game Dev"}
+{"id": 442, "prompt": "Create an interface for organizing and managing your bookmarks efficiently.", "category": "Website"}
+{"id": 443, "prompt": "Create a Next.js site focused on a leveraged S&P 500 SMA 200 trading method. Explain how signals are identified using the SMA 200, and include a backtesting tool to compare strategy performance versus holding the S&P 500 over time. Display crucial metrics like returns and drawdown with compelling visuals. Offer free subscription alerts for SMA 200 signals via email or SMS. Add a premium section with advanced strategies, like volatility filters, for a monthly fee. Ensure the site is user-friendly and responsive for all devices.", "category": "Website"}
+{"id": 444, "prompt": "Create a Mario-like game level featuring platforms, obstacles, and collectibles for players to navigate and enjoy.", "category": "Game Dev"}
+{"id": 445, "prompt": "A rotating 3D sphere that allows users to explore different continents and countries by zooming in and spinning the globe.", "category": "3D Design"}
+{"id": 446, "prompt": "Create a website similar to Pinterest, focusing on replicating its features and user experience as accurately as possible.", "category": "Website"}
+{"id": 447, "prompt": "Create an interface for a Chrome extension that restricts access to certain websites.", "category": "Website"}
+{"id": 448, "prompt": "A website comparing how various language models choose between exploring new possibilities or using known strategies.", "category": "Website"}
+{"id": 449, "prompt": "Develop a date selector tool that lets users choose both individual dates and date ranges with ease.", "category": "UI Component"}
+{"id": 450, "prompt": "An e-commerce site for pet supplies and accessories.", "category": "Website"}
+{"id": 451, "prompt": "Create an interface for a hair salon website that showcases services, stylist profiles, booking options, and customer reviews.", "category": "Website"}
+{"id": 452, "prompt": "Design a 3D model of a tractor, allowing users to explore its features and interact with the machinery.", "category": "3D Design"}
+{"id": 453, "prompt": "A stunning, translucent calendar pop-up with smooth animations.", "category": "UI Component"}
+{"id": 454, "prompt": "Create a highly intricate 3D model of Berlin's Museum Island, capturing every minute architectural detail and cultural landmark.", "category": "3D Design"}
+{"id": 455, "prompt": "Create a 3D interactive model featuring a cylinder and piston. Animate gas particles within the cylinder, showing their movement and vibration. Users can press the piston to compress the gas, demonstrating increased particle collision rates.", "category": "Website"}
+{"id": 456, "prompt": "Create a site where a team can log expenses and see a straightforward method for reimbursing each member to balance the accounts.", "category": "Website"}
+{"id": 457, "prompt": "Our startup, aihello.com, supports Amazon sellers with automated marketing and offers comprehensive agency services. We're expanding to assist Walmart sellers and plan to create an eye-catching landing page. It will highlight our expertise in full account management, automated Walmart order fulfillment via Amazon MCF, our 3PL services, and ad campaign management. The page will be static, utilizing Three.js for engaging animations relevant to each feature, and styled with any CSS theme libraries.", "category": "Website"}
+{"id": 458, "prompt": "Create a 3D interactive model of hydraulic car brakes, where users can press the pedal to engage the brakes. Visualize the liquid flow, and display pressure and force metrics for better understanding.", "category": "3D Design"}
+{"id": 459, "prompt": "Create a user interface element for a mobile application designed to enhance customer support and satisfaction.", "category": "Website"}
+{"id": 460, "prompt": "Create a user interface for a messaging application, enabling smooth conversations and easy navigation for users.", "category": "Website"}
+{"id": 461, "prompt": "Create a website that enables a group to log shared expenses and provides a straightforward method for reimbursing each member to balance the costs.", "category": "Website"}
+{"id": 462, "prompt": "Stunning translucent calendar popup with smooth animations.", "category": "UI Component"}
+{"id": 463, "prompt": "Design an animation where a group of people moves to spell out \u201cHello world, I am Grok\u201d from above, as the camera shifts to a top-down view.", "category": "Website"}
+{"id": 464, "prompt": "Create a component featuring X collapsible panels, each independently toggled by clicking its header. Inside, find 100 lines of placeholder text. The panels adapt in size to evenly fill their container's height.", "category": "UI Component"}
+{"id": 465, "prompt": "Create a 3D model of a starship rocket, where hovering reveals names and details of its parts and assemblies.", "category": "3D Design"}
+{"id": 466, "prompt": "Create an interactive 3D simulation featuring a cylinder and piston. Users can press the piston, squeezing the gas inside and making particles collide more frequently. The animation accurately depicts gas particle motion with realistic vibration and dynamics.", "category": "Website"}
+{"id": 467, "prompt": "Create a web-based replica of GitHub Desktop, focusing on its functionality for managing and collaborating on code repositories.", "category": "Website"}
+{"id": 468, "prompt": "A three-dimensional representation of Earth, allowing users to interact with and explore its surface.", "category": "3D Design"}
+{"id": 469, "prompt": "Create a user interface element for a mobile application that enhances a customer success platform.", "category": "Website"}
+{"id": 470, "prompt": "I plan to create a site called INDIAN CHRISTIAN LYRICS, offering Hindi lyrics translated into multiple Indian languages, including Hinglish. It will feature chords, admin controls, user submissions, and have roles like Super Admin, Admin, and Moderators. Built with Next.js 15 and React, it will have a sleek, dark-themed UI with a subtle grain effect and display featured song lyrics on the homepage.", "category": "Website"}
+{"id": 471, "prompt": "Create a user interface for a website that offers information about stocks, IPOs, and market indices.", "category": "Website"}
+{"id": 472, "prompt": "Interactive bar chart displaying monthly spending data", "category": "UI Component"}
+{"id": 473, "prompt": "Design a homepage for CVerified, which tackles the hidden-job issue by using bank-level identity checks. This platform ensures candidates are genuine and alerts you if they accept another position.", "category": "Website"}
+{"id": 474, "prompt": "A neuron firing electrical signals, visualized in an immersive 3D environment.", "category": "3D Design"}
+{"id": 475, "prompt": "Create a platform to organize and review video memories collected throughout my life.", "category": "Website"}
+{"id": 476, "prompt": "Design an interactive chart to showcase insights from quantum computing studies.", "category": "Data Visualization"}
+{"id": 477, "prompt": "Create an interactive chart displaying average human body sizes by country, allowing users to explore and compare different nations' data.", "category": "Data Visualization"}
+{"id": 478, "prompt": "A rotating donut-shaped object in 3D, featuring realistic textures and smooth animations.", "category": "3D Design"}
+{"id": 479, "prompt": "Create a UI component featuring several collapsible sections. Each section toggles open or closed when its header is clicked, revealing a list of 100 lines of placeholder text. All sections dynamically adjust their height to fit the container.", "category": "UI Component"}
+{"id": 480, "prompt": "A three-dimensional donut model that users can rotate and explore from different angles.", "category": "3D Design"}
+{"id": 481, "prompt": "An interactive display showcasing box office trends and ratings of Hollywood films, featuring dynamic charts and graphs for exploring various genres and time periods.", "category": "Data Visualization"}
+{"id": 482, "prompt": "Create an ultra-slim, efficient interface for a task list app, focusing on seamless task management and user-friendly navigation.", "category": "UI Component"}
+{"id": 483, "prompt": "Design an illustration capturing the essence of a classic Hollywood actress from the 1980s, showcasing iconic fashion and style of that era.", "category": "Website"}
+{"id": 484, "prompt": "Create a mobile interface for partners aiming to improve sexual compatibility, explore interests, and understand each other's moods. This helps address issues like lack of intimacy and reduces awkwardness or rejection when initiating interactions.", "category": "Website"}
+{"id": 485, "prompt": "Create an AI tool for a browser extension that highlights available booth search links, supports up to 16 avatars, and offers quick download options for items like the Belladia full set. It also includes a forum for discussing items and features a fast scanning capability.", "category": "Website"}
+{"id": 486, "prompt": "Develop a 3D Uno game where players compete against a computer opponent, featuring visually appealing cards and graphics reminiscent of the classic game.", "category": "Website"}
+{"id": 487, "prompt": "Design a user interface for creating game units, where players choose from 18 attributes, such as Race, Mount, and Equipment. Include sections to display the unit's name, visual look, and statistics, ensuring a comprehensive customization experience.", "category": "Game Dev"}
+{"id": 488, "prompt": "A rotating 3D earth model that allows users to explore continents and oceans interactively.", "category": "3D Design"}
+{"id": 489, "prompt": "A neuron actively transmitting an electrical impulse in a 3D virtual environment.", "category": "3D Design"}
+{"id": 490, "prompt": "Develop a site for \"MASCOTAPPS,\" an application dedicated to pet care, featuring tips, resources, and tools for pet owners.", "category": "Website"}
+{"id": 491, "prompt": "Create a dynamic and fluid 3D shape viewer using three.js and anime.js, ensuring it runs smoothly and efficiently.", "category": "Website"}
+{"id": 492, "prompt": "Design a website for a foosball club, highlighting events, team profiles, and schedules.", "category": "Website"}
+{"id": 493, "prompt": "Create a user interface for a summer camp website that maintains a down-to-earth, community feel while still appearing polished and professional.", "category": "Website"}
+{"id": 494, "prompt": "A virtual Uno game against an AI opponent, featuring visually appealing cards and graphics similar to the classic version.", "category": "3D Design"}
+{"id": 495, "prompt": "JTL Wawi's online interface for managing inventory and orders efficiently.", "category": "Website"}
+{"id": 496, "prompt": "Create a community-centric website named 'AOC Inspiration Hub' to honor Alexandria Ocasio-Cortez\u2019s leadership. Users can post essays or slogans about her policies or speeches, while AI creates artistic visuals like posters. Features include user forums, a career timeline, and a tribute leaderboard. Keep content positive and professional, with clear site layout and engaging submission examples.", "category": "Website"}
+{"id": 497, "prompt": "We are compiling key questions for our discussions on various objectives. For improving MHW detection, we aim to clarify definitions and algorithms. For observability, we will identify observation needs and gaps in Climate Data Records. For predictability, we'll explore forecasting advancements and climate drivers. What questions should we prioritize in these areas?", "category": "Website"}
+{"id": 498, "prompt": "Design an interactive 3D tractor model that users can explore and manipulate.", "category": "3D Design"}
+{"id": 499, "prompt": "Create an interactive interface for an app that assesses stock market performance and suggests investments, featuring real-time data and user-friendly navigation.", "category": "UI Component"}
+{"id": 500, "prompt": "Create a dynamic landing page featuring a metro network animation, where trains move along tracks in the background, for a subway map collection.", "category": "Website"}
+{"id": 501, "prompt": "Create an iPhone app for music remixing with audio, drum, bass, and chord sequencers. Make it appealing to TikTok and CapCut fans by integrating familiar features and user-friendly controls.", "category": "Website"}
+{"id": 502, "prompt": "Create a website featuring a retro-style game reminiscent of SkiFree, highlighting its main features and player interactions.", "category": "Website"}
+{"id": 503, "prompt": "Create a 3D foundation for your game environment.", "category": "Game Dev"}
+{"id": 504, "prompt": "Create a platform for buying and selling cars through auctions.", "category": "Website"}
+{"id": 505, "prompt": "Create a user interface for mobile devices that clearly presents various pharmacologically active molecules, emphasizing simplicity and clarity.", "category": "Website"}
+{"id": 506, "prompt": "Design a logo for a software firm, highlighting innovation and technology.", "category": "Website"}
+{"id": 507, "prompt": "A fan website dedicated to Meghan Markle, celebrating her life and achievements.", "category": "Website"}
+{"id": 508, "prompt": "Create an iPhone app for music remixes featuring audio, drum, bass, and chord sequencers, tailored to appeal to TikTok and CapCut enthusiasts.", "category": "Website"}
+{"id": 509, "prompt": "Create an engaging level for a browser-based remake of Zelda: Ocarina of Time, focusing on puzzles, exploration, and interactive elements.", "category": "Game Dev"}
+{"id": 510, "prompt": "A sleek, contemporary website for my flower shop, designed to be both elegant and straightforward.", "category": "Website"}
+{"id": 511, "prompt": "A 2D side-scrolling shooter set in a gritty UK council estate environment.", "category": "Game Dev"}
+{"id": 512, "prompt": "Design a user interface for a 2D soccer game featuring four leagues, each with ten teams competing. Display live match scores so players can monitor ongoing games and track team standings.", "category": "Game Dev"}
+{"id": 513, "prompt": "A Babylon.js platform where users can upload and manipulate 3D models, adding clickable tags that display informative details.", "category": "Website"}
+{"id": 514, "prompt": "Create a Mario-inspired stage where players navigate obstacles and collect coins.", "category": "Game Dev"}
+{"id": 515, "prompt": "Create a new stage for a browser-based adventure game inspired by Zelda: Ocarina of Time, focusing on puzzles and exploration.", "category": "Game Dev"}
+{"id": 516, "prompt": "A virtual scene featuring a detailed 3D model of Alexandria Ocasio-Cortez, allowing users to explore her surroundings and interact with various elements.", "category": "3D Design"}
+{"id": 517, "prompt": "A platform mimicking Slack, designed for team communication and collaboration.", "category": "Website"}
+{"id": 518, "prompt": "Stunning translucent calendar popup with fluid animation effects.", "category": "UI Component"}
+{"id": 519, "prompt": "A realistic 3D-rendered doughnut with a glossy glaze and sprinkles, inviting users to interact with its vibrant colors and textures.", "category": "3D Design"}
+{"id": 520, "prompt": "A Babylon.js sandbox lets users upload and view 3D models like .glb or .obj, adjust their position, and add clickable tags with info pop-ups. Users can orbit the camera and manage tags, saving scenes with JSON support.", "category": "Website"}
+{"id": 521, "prompt": "Create a chess game with unique variations and AI learning capabilities.", "category": "Game Dev"}
+{"id": 522, "prompt": "Could you suggest a web UI design for a personal blog that has a retro-futuristic feel, while keeping it straightforward and minimalist?", "category": "UI Component"}
+{"id": 523, "prompt": "A detailed guide on aphantasia, featuring interactive examples and explanations.", "category": "Website"}
+{"id": 524, "prompt": "Could you suggest a web UI concept for a personal blog? Aim for a minimalistic design with a retro-futuristic vibe, perhaps using neon accents and simple geometric shapes.", "category": "UI Component"}
+{"id": 525, "prompt": "Design a comet animation that streaks across the screen and divides into two parts in the center.", "category": "Website"}
+{"id": 526, "prompt": "Develop a stylish leaderboard for a tennis or padel stats app, featuring a contemporary design with tennis-themed elements.", "category": "Website"}
+{"id": 527, "prompt": "Create a user interface for a guessing game, allowing players to input their guesses and receive feedback.", "category": "Website"}
+{"id": 528, "prompt": "An educational SwiftUI iOS app helps children learn car brands using a quiz format. Kids listen to the brand name while viewing a car icon and choose the right brand from three choices. Scores are tracked over 10 rounds, with instant feedback: green for correct and red for incorrect answers. The app has a straightforward navigation from menu to quiz to results, featuring text-to-speech for auditory learning support.", "category": "Website"}
+{"id": 529, "prompt": "Create an interface for an online news portal.", "category": "Website"}
+{"id": 530, "prompt": "Develop a site that highlights the unique perspectives and ideas of Joseph Henrich, focusing on his influential work on WEIRD societies.", "category": "Website"}
+{"id": 531, "prompt": "Create a distinctive UI for a stone crafting website using Bootstrap CSS. Incorporate custom classes and vector backgrounds for the sidebar, header, and footer, emphasizing organic shapes and avoiding straight lines for a unique design.", "category": "Website"}
+{"id": 532, "prompt": "Create a single-page landing site for an energy co-op using semantic HTML. Prioritize accessibility, speed, and security. Design it to be modern, reliable, and slightly playful, reflecting the cooperative's non-profit mission.", "category": "Website"}
+{"id": 533, "prompt": "A 3D representation of a vehicle featuring interactive doors that users can open and close.", "category": "3D Design"}
+{"id": 534, "prompt": "A web platform using Babylon.js where users can upload and interact with 3D models like .glb or .obj files. Users can move, rotate, and resize models while adding clickable hotspots with info like texts and images. The site offers camera control features and allows saving and managing scenes with JSON.", "category": "Website"}
+{"id": 535, "prompt": "Interface for an esports tournament bracket site.", "category": "Website"}
+{"id": 536, "prompt": "Create a Mario game stage with challenging obstacles and hidden power-ups for players to discover.", "category": "Game Dev"}
+{"id": 537, "prompt": "A rotating digital globe showcasing countries and continents in 3D.", "category": "3D Design"}
+{"id": 538, "prompt": "Create a Mario-inspired game level with challenging obstacles and hidden treasures.", "category": "Game Dev"}
+{"id": 539, "prompt": "Create a user interface for a website that allows users to subscribe to news updates via SMS.", "category": "Website"}
+{"id": 540, "prompt": "Design a compact 3D model of a factory featuring tanks, pipes, valves, and pumps, perfect for displaying on the title screen of a mobile application.", "category": "3D Design"}
+{"id": 541, "prompt": "A rotating digital globe, allowing users to explore different continents and oceans in a 3D environment.", "category": "3D Design"}
+{"id": 542, "prompt": "Create a professional website for personal training services featuring a sleek dark gray and indigo theme, including tools for booking appointments and displaying a detailed price list.", "category": "Website"}
+{"id": 543, "prompt": "Create an interactive interface for a pet grooming salon, allowing users to easily book appointments, select services, and browse pet care tips.", "category": "UI Component"}
+{"id": 544, "prompt": "Create a circular element that wiggles on hover and bursts when clicked. The bubble should be see-through with shiny accents.", "category": "UI Component"}
+{"id": 545, "prompt": "Create a game inspired by \"de_rats\" with quirky oversized environments and strategic gameplay.", "category": "Game Dev"}
+{"id": 546, "prompt": "Create a user interface for a freelancer specializing in automation and artificial intelligence, highlighting their skills and services.", "category": "Website"}
+{"id": 547, "prompt": "An educational SwiftUI iOS app for kids introduces car brands via multiple-choice quizzes. Users see a car icon, hear its brand name, and choose from three brands. Scores are tracked over 10 questions, with instant feedback using colors\u2014green for right, red for wrong. The app includes a straightforward menu, game, and results sequence, and utilizes text-to-speech for auditory support.", "category": "Website"}
+{"id": 548, "prompt": "Develop a site focused on veterinary courses, detailing class schedules, curriculum, and enrollment procedures.", "category": "Website"}
+{"id": 549, "prompt": "Create a professional website for personal training services using a dark gray and indigo color scheme, featuring an appointment scheduling tool and a detailed pricing list.", "category": "Website"}
+{"id": 550, "prompt": "Create a simple and sleek product card that highlights key features and pricing.", "category": "Website"}
+{"id": 551, "prompt": "Create a user interface for an Arknights-inspired browser game, focusing on engaging gameplay and interactive elements.", "category": "Game Dev"}
+{"id": 552, "prompt": "A user-friendly chatbot interface designed to mimic the classic look of Windows Vista, allowing users to engage in interactive conversations.", "category": "Website"}
+{"id": 553, "prompt": "Create a Mario-themed stage with obstacles and power-ups for players to navigate.", "category": "Game Dev"}
+{"id": 554, "prompt": "Create an interface for locating short-term housing options.", "category": "Website"}
+{"id": 555, "prompt": "Create a user-friendly interface for an online pet store.", "category": "Website"}
+{"id": 556, "prompt": "The SwiftUI iOS app helps children learn car brands using multiple-choice quizzes. Kids see a colorful car icon, hear the brand's name, and pick the right brand from three choices. The app records scores over 10 questions and gives instant feedback with green for correct and red for incorrect answers. It has a straightforward menu, game, and results flow, featuring text-to-speech for auditory learning.", "category": "Website"}
+{"id": 557, "prompt": "A SwiftUI iOS app designed for children to learn car brands using multiple-choice quizzes. Kids view a colored car icon, hear the brand name spoken, and choose the correct brand from three options. The app tracks scores over 10 questions, offering immediate feedback with green for correct and red for incorrect answers. It includes a straightforward menu-game-results sequence and utilizes text-to-speech for auditory learning.", "category": "Website"}
+{"id": 558, "prompt": "Create an online presence for a solo law practice, highlighting services, expertise, and client testimonials.", "category": "Website"}
+{"id": 559, "prompt": "Build a website using React Three Fiber with smooth animations and stylish transitions, highlighting the work and skills of a UI designer.", "category": "Website"}
+{"id": 560, "prompt": "As an Apple Inc. UI designer, create a weather card with animations in the iOS 18 style using HTML, CSS, and basic JavaScript. The design features four horizontal cards: sunny, windy, heavy rain, and snowstorm, ensuring an attractive and interactive user experience.", "category": "UI Component"}
+{"id": 561, "prompt": "Create a stage inspired by Mario, featuring classic elements like pipes, platforms, and Goombas for an engaging gameplay experience.", "category": "Game Dev"}
+{"id": 562, "prompt": "A virtual Scottish pub scene featuring animated characters enjoying beer, with immersive interactions that let users explore the lively atmosphere and engage with the surroundings.", "category": "3D Design"}
+{"id": 563, "prompt": "A website where you can upload comics with a built-in translation tool. Click on phrases to hear translations and expand your vocabulary library. Learn a language while enjoying comics, featuring a brutalist design style.", "category": "Website"}
+{"id": 564, "prompt": "Create a 3D Rubik's Cube with each piece painted in shades of blue: Dark Blue (#005779), Medium Blue (#63a8c3), or Light Blue (#92dbf3). It hovers centrally over a see-through background.", "category": "Website"}
+{"id": 565, "prompt": "An interactive pie chart depicting political data, allowing users to modify and explore different segments.", "category": "Website"}
+{"id": 566, "prompt": "Create a 3D Rubik's Cube with each block colored either in deep ocean blue (#005779), sky blue (#63a8c3), or pale aqua (#92dbf3). Position the cube so it hovers in the center against a clear background.", "category": "3D Design"}
+{"id": 567, "prompt": "Create a platform that lets users evaluate and score various language model responses.", "category": "Website"}
+{"id": 568, "prompt": "Create a user interface for a social media platform focused on a network map, replacing the traditional feed. Each point represents a user or group, and tapping opens a small chat window that expands to full screen by swiping up. The design should have a sleek, modern feel with a light purple gradient and plenty of white space for simplicity.", "category": "Website"}
+{"id": 569, "prompt": "Comparison of sales figures and review ratings for Das Kapital book guides and Minecraft manuals.", "category": "Data Visualization"}
+{"id": 570, "prompt": "Display an interactive chart highlighting the 500 most humorous political ideologies, inviting users to explore each one with engaging visual elements.", "category": "Data Visualization"}
+{"id": 571, "prompt": "You are Claude Code, tasked with creating a detailed, Apple-inspired weather website. This site should emulate the sleekness of Apple Maps/Music, featuring smooth scrolling, and large fonts. Users can enter a city or use their location for weather data, sourced from Bright Sky API, presented in a stylish layout with current conditions, hourly updates, and a 7-day forecast. It's built with React, Vite, and TypeScript, runs entirely client-side, and supports accessibility, responsiveness, and light/dark modes. A comprehensive test suite and CI must be included. Plan meticulously before coding and utilize sub-agents.", "category": "Website"}
+{"id": 572, "prompt": "Develop a tool similar to Pitchbook that allows users to discover and assess the valuations of various companies.", "category": "Website"}
+{"id": 573, "prompt": "Design a game where players have the power to shape and control a digital universe, becoming the creator of their own world.", "category": "Game Dev"}
+{"id": 574, "prompt": "A sleek interface for a contemporary quiz application, offering intuitive navigation and interactive features to enhance user engagement.", "category": "Website"}
+{"id": 575, "prompt": "Create an example of a pivot table using sample data.", "category": "Website"}
+{"id": 576, "prompt": "Develop a website with smooth animations and stylish transitions using React Three Fiber that showcases the work and skills of a UI designer.", "category": "Website"}
+{"id": 577, "prompt": "Develop a sleek portfolio website showcasing a Boston-based photography business, highlighting stunning images and providing contact information.", "category": "Website"}
+{"id": 578, "prompt": "An online discussion board where users share lasagna recipes and photos, but the atmosphere is filled with harsh criticism and negativity.", "category": "Website"}
+{"id": 579, "prompt": "Transparent user interface design", "category": "Website"}
+{"id": 580, "prompt": "A virtual scene featuring a stack of 500 cigarettes, inviting users to explore and interact with the 3D display.", "category": "3D Design"}
+{"id": 581, "prompt": "Stunning translucent calendar pop-up with fluid animations", "category": "UI Component"}
+{"id": 582, "prompt": "Create a website dedicated to showcasing the research work of Cho-Jui Hsieh, highlighting his publications, projects, and contributions to the academic community.", "category": "Website"}
+{"id": 583, "prompt": "Stunning translucent calendar pop-up with smooth animations.", "category": "UI Component"}
+{"id": 584, "prompt": "Build a website using React Three Fiber, featuring smooth animations and elegant transitions, to showcase the work and skills of a UI designer.", "category": "Website"}
+{"id": 585, "prompt": "Stunning translucent calendar popup with smooth animations.", "category": "UI Component"}
+{"id": 586, "prompt": "Create a website that features an integrated development environment akin to Cursor and Visual Studio, where users can leverage a smart assistant with file awareness to enhance code completion and streamline programming tasks.", "category": "Website"}
+{"id": 587, "prompt": "Create a user interface for a Cyberpunk-themed action RPG reminiscent of Diablo, focusing on immersive gameplay and futuristic aesthetics.", "category": "Game Dev"}
+{"id": 588, "prompt": "A 3D car model featuring doors that users can open and close interactively.", "category": "3D Design"}
+{"id": 589, "prompt": "Create a simplified 2D strategy game using rectangles, where players lead armies of foot soldiers, archers, and cavalry. Develop the core mechanics of commanding these three unit types in a real-time strategy environment.", "category": "Game Dev"}
+{"id": 590, "prompt": "Design a user interface for a JTL Wawi system, focusing on enhancing user interaction and accessibility.", "category": "Website"}
+{"id": 591, "prompt": "A simple \"Hello World\" website designed with an Apple-inspired user interface.", "category": "Website"}
+{"id": 592, "prompt": "Design a user interface for a weather prediction app that displays a variety of technical metrics. Integrate ensemble forecasts creatively within the visual layout to enhance user understanding.", "category": "Website"}
+{"id": 593, "prompt": "Develop an interactive chart displaying key quantum computing research results for users to explore and analyze.", "category": "Data Visualization"}
+{"id": 594, "prompt": "A smart meeting recap tool that seamlessly includes visual elements like whiteboard sketches and screen share snapshots to provide a comprehensive summary.", "category": "UI Component"}
+{"id": 595, "prompt": "Create a simplified 2D war strategy game using rectangles. Lead three unit types\u2014infantry, archers, and cavalry\u2014in real-time battles. Fill in any missing game mechanics to enhance the experience.", "category": "Game Dev"}
+{"id": 596, "prompt": "A rotating 3D Earth model that users can interact with to explore continents and oceans.", "category": "3D Design"}
+{"id": 597, "prompt": "Create a \"fart button\" game where players can trigger digital fart sounds and adjust various sound settings for a fun experience.", "category": "Game Dev"}
+{"id": 598, "prompt": "Create a user interface for a cryptocurrency trading platform using neon green hues to enhance its visual appeal and user engagement.", "category": "Website"}
+{"id": 599, "prompt": "An inline chat feature that displays attached files, enhanced with intelligent AI capabilities for better functionality.", "category": "UI Component"}
+{"id": 600, "prompt": "Create an interface for an online text editor that allows users to easily format and organize their documents.", "category": "Website"}
+{"id": 601, "prompt": "Stunning translucent calendar popup with fluid animations", "category": "UI Component"}
+{"id": 602, "prompt": "Create a Mario-inspired level where players jump over obstacles and collect coins.", "category": "Game Dev"}
+{"id": 603, "prompt": "Design a homepage for a Web3 platform featuring cutting-edge visuals, token statistics, and engaging interactive avatars.", "category": "Website"}
+{"id": 604, "prompt": "Create a schematic editor for circuit designs that includes a modern tool palette featuring essential editing tools. It's tailored for advanced users who need efficient design capabilities.", "category": "Website"}
+{"id": 605, "prompt": "Create a user interface for a teen-friendly polling app, incorporating the latest trends in mobile design to ensure it is engaging and appealing.", "category": "Website"}
+{"id": 606, "prompt": "Create an interactive module for assembling a lasagna with options to stack layers of meat, pasta, and creamy b\u00e9chamel sauce.", "category": "UI Component"}
+{"id": 607, "prompt": "Develop an interactive display showcasing research results from quantum computing, featuring dynamic charts and graphs for user exploration.", "category": "Data Visualization"}
+{"id": 608, "prompt": "Create a tic-tac-toe game using PowerShell, featuring intuitive controls and providing players with a fun and engaging experience.", "category": "Game Dev"}
+{"id": 609, "prompt": "Develop a business chat application with a straightforward interface, unlike complex platforms like Slack. Integrate AI from the start, featuring intelligent summarization and native AI capabilities, avoiding additional side panels or AI-specific buttons.", "category": "Website"}
+{"id": 610, "prompt": "Create a lively and vibrant website interface for quizzes, using bright colors and a modern feel. Include friendly fonts and simple navigation. Add dynamic features like progress bars, animations, and fun effects to celebrate quiz completion, ensuring a user-friendly experience.", "category": "Website"}
+{"id": 611, "prompt": "Could you create a website that offers free resources for university students? It should include study notes, video lectures, and past exam papers with answers, organized by semester and subject.", "category": "Website"}
+{"id": 612, "prompt": "Hello, could you create a website that offers free resources for university students? It should include study notes, video lectures, and past exam questions with answers, organized by semester and subject.", "category": "Website"}
+{"id": 613, "prompt": "This is a smart AI-powered feature in a business chat app that allows users to view attachments directly within their messages, enhancing communication efficiency by displaying documents, images, or files seamlessly in the conversation thread.", "category": "UI Component"}
+{"id": 614, "prompt": "Design a website that is sleek, user-friendly, and adapts well to different devices.", "category": "Website"}
+{"id": 615, "prompt": "Stunning translucent calendar popup with fluid animations", "category": "UI Component"}
+{"id": 616, "prompt": "Create a webpage for an application that tracks and manages personal expenses.", "category": "Website"}
+{"id": 617, "prompt": "Create an engaging and colorful mobile app interface for a game where kids aged 7-8 learn syllables. They hear words and mark long and short syllables using dots and dashes, making learning fun and intuitive.", "category": "Website"}
+{"id": 618, "prompt": "Create an attractive and smooth dashboard for managing a server running on Docker, ensuring it captivates and serves users effectively.", "category": "Website"}
+{"id": 619, "prompt": "Design a homepage for my startup, Ghostship, focusing on its main features and user engagement.", "category": "Website"}
+{"id": 620, "prompt": "Develop an interactive chart to display research outcomes in quantum computing, allowing users to explore and understand complex data easily.", "category": "Data Visualization"}
+{"id": 621, "prompt": "What is a glassmorphic user interface?", "category": "Website"}
+{"id": 622, "prompt": "Build a website featuring smooth animations and transitions using React Three Fiber, focusing on showcasing the work and skills of a UI designer.", "category": "Website"}
+{"id": 623, "prompt": "Create an interactive trivia game where players swipe left or right to decide if statements presented are true or false.", "category": "Website"}
+{"id": 624, "prompt": "Create a website dedicated to an indie game for mobile devices, highlighting its unique features and gameplay.", "category": "Website"}
+{"id": 625, "prompt": "A lifelike 3D model of a plastic water bottle, complete with detailed textures and reflections.", "category": "3D Design"}
+{"id": 626, "prompt": "Recreate the initial scene of Undertale, focusing on setting the mood with captivating characters and engaging gameplay elements.", "category": "Game Dev"}
+{"id": 627, "prompt": "Design a detailed 3D laptop with a clickable keyboard for interactive exploration.", "category": "3D Design"}
+{"id": 628, "prompt": "Create a horizontal scrolling website with five distinct sections, each featuring unique backgrounds, central images, and clickable info blocks opening in modals. Transitions connect sections with diverse styles and colors. An animated, semi-transparent menu bar spans the top, highlighting active sections. The horizontal scroll aligns with vertical mouse movements. Customize colors, images, and text, using the Nuxt 3/4 framework.", "category": "Website"}
+{"id": 629, "prompt": "Create a user interface for a text editing tool that allows users to format and organize documents.", "category": "Website"}
+{"id": 630, "prompt": "Create a Chinese incremental game with meaningful themes, where players gradually build and expand their world while uncovering insightful messages.", "category": "Game Dev"}
+{"id": 631, "prompt": "Create a Chinese incremental game with plenty of mechanics, upgrades, and resources. Avoid endless time barriers by unlocking new features and advancements to progress smoothly.", "category": "Website"}
+{"id": 632, "prompt": "Create a detailed 3D representation of the Earth that users can interact with and explore.", "category": "Website"}
+{"id": 633, "prompt": "Develop a website similar to Notion for taking class notes, featuring organized sections and easy categorization.", "category": "Website"}
+{"id": 634, "prompt": "Create a chart illustrating the advancements in AI model intelligence over the years, allowing users to explore trends and progress.", "category": "Data Visualization"}
+{"id": 635, "prompt": "Create an interface for a hair salon webpage, highlighting services, booking options, and customer reviews.", "category": "Website"}
+{"id": 636, "prompt": "Create a teapot with spider-like legs that moves on its own and pours tea for guests automatically.", "category": "3D Design"}
+{"id": 637, "prompt": "Create a \"fart button\" feature that triggers a digital fart noise, allowing users to adjust the sound with basic controls.", "category": "Game Dev"}
+{"id": 638, "prompt": "Create a mouse-controlled Arkanoid-style game within a single HTML file. Include scoring, player lives, and 20 levels with rising difficulty, plus hidden power-ups in random bricks.", "category": "Game Dev"}
+{"id": 639, "prompt": "Create an animated scene featuring a basketball rotating slowly in mid-air.", "category": "3D Design"}
+{"id": 640, "prompt": "Create an Arkanoid-style game within a single HTML file, where players use the mouse to control the paddle. Include a scoring system, multiple lives, and 20 levels of increasing difficulty, with random power-ups hidden in the bricks.", "category": "Game Dev"}
+{"id": 641, "prompt": "Create a Mario-inspired level where players navigate platforms, dodge obstacles, and collect coins.", "category": "Game Dev"}
+{"id": 642, "prompt": "Stunning translucent calendar pop-up with smooth animations.", "category": "UI Component"}
+{"id": 643, "prompt": "Develop a website showcasing the concept of compounding growth with visual aids. Include graphs that illustrate the long-term growth of investments in the S&P 500, highlighting trends over several decades.", "category": "Website"}
+{"id": 644, "prompt": "Create an interactive browser version of the popular 2048 puzzle game, where players combine tiles to reach the highest score.", "category": "Game Dev"}
+{"id": 645, "prompt": "Create a marketing analytics dashboard that provides key insights and tracks performance metrics.", "category": "Website"}
+{"id": 646, "prompt": "Create a web app for managing the `~/.ssh/config` file, allowing users to add, delete, modify, and view entries. The interface should have a futuristic, tech-inspired design.", "category": "Website"}
+{"id": 647, "prompt": "Please analyze the odds from five different companies for these 15 matches: G\u00f6teborg-Elfsborg, Malm\u00f6-Norrk\u00f6ping, Brommapojkarna-\u00d6sters IF, Gais-Hammarby, Hacken-Halmstads BK, Bodo Glimt-Sandefjord, Fredrikstad-Molde, Bryne-Valerenga, Haugesund-KFUM, Kristiansund BK-Sarpsborg 08, Rosenborg-Ham Kam, Brann-Viking, Inter Turku-Jaro, Gnistan-Haka, and Oulu-KTP. Provide a comparative analysis using mathematical averages, deviations, and comparisons. Predict each match's winner based on this data, indicating home win, draw, or away win, and specify your data sources.", "category": "Website"}
+{"id": 648, "prompt": "Create a responsive menu bar that enhances user browsing by providing intuitive links to different sections of the website.", "category": "UI Component"}
+{"id": 649, "prompt": "Design a three-dimensional representation of an iPhone, enhancing its realism with intricate details like buttons and ports for an immersive user experience.", "category": "3D Design"}
+{"id": 650, "prompt": "Build a simulation for fabric movement using Three.js to mimic real-life cloth behavior on a general website.", "category": "Website"}
+{"id": 651, "prompt": "Create a mouse-controlled Arkanoid-style game in a single HTML file. Include scoring, player lives, 20 levels with escalating challenges, and hidden power-ups within random blocks.", "category": "Game Dev"}
+{"id": 652, "prompt": "Create a single HTML file for an Arkanoid-style game controlled by the mouse. Include scoring, player lives, and 20 progressively harder levels, with random blocks hiding power-ups.", "category": "Game Dev"}
+{"id": 653, "prompt": "Develop an interactive and customizable educational tool that simulates how artificial neural networks operate.", "category": "Website"}
+{"id": 654, "prompt": "Create a C++ project that demonstrates the use of every component in the standard template library, showcasing examples for each.", "category": "Website"}
+{"id": 655, "prompt": "Create a lifelike 3D representation of a Toyota Camry, capturing its intricate details and design.", "category": "3D Design"}
+{"id": 656, "prompt": "Create an online platform for a truck repair shop that includes a QR code system for verifying maintenance records.", "category": "Website"}
+{"id": 657, "prompt": "Develop a simulation where cloth moves realistically, reacting to wind and player interactions.", "category": "Game Dev"}
+{"id": 658, "prompt": "A spherical 3D representation of Earth, complete with continents and oceans, allowing users to rotate and explore different geographical regions.", "category": "3D Design"}
+{"id": 659, "prompt": "Please create a concept for a browser game where players can collect and customize wallpapers.", "category": "Game Dev"}
+{"id": 660, "prompt": "Create a website for a bicycle shop, highlighting product details, store services, and customer engagement features.", "category": "Website"}
+{"id": 661, "prompt": "Create a homepage for a pixel art game titled \"Block King,\" showcasing its unique style and gameplay features.", "category": "Website"}
+{"id": 662, "prompt": "A SwiftUI iOS app educates children about car brands using multiple-choice quizzes. Kids view a colorful car icon, hear the brand name, and pick the right brand from three choices. The app tracks progress over 10 questions, offering instant feedback with green and red indicators. It includes a straightforward menu-game-results setup and uses text-to-speech for vocal learning.", "category": "Website"}
+{"id": 663, "prompt": "Create a single HTML file for an Arkanoid-style game that uses the mouse for control. Include a score system, player lives, and 20 progressively harder levels. Incorporate power-ups hidden in random blocks to enhance gameplay.", "category": "Game Dev"}
+{"id": 664, "prompt": "Create a heavy metal music site featuring intense, fiery graphics and dynamic content that engages fans.", "category": "Website"}
+{"id": 665, "prompt": "Create a simple Pacman game using just a single HTML file, employing standard technologies compatible with modern web browsers.", "category": "Game Dev"}
+{"id": 666, "prompt": "\u521b\u5efa\u4e00\u6b3e\u4e2d\u6587\u589e\u91cf\u6e38\u620f\uff0c\u5305\u542b\u4e30\u5bcc\u7684\u673a\u5236\u548c\u8d44\u6e90\uff0c\u8ba9\u73a9\u5bb6\u9010\u6b65\u5347\u7ea7\u548c\u6269\u5c55\u5185\u5bb9\u3002", "category": "Game Dev"}
+{"id": 667, "prompt": "Create a homepage for an AI consultancy that specializes in developing tailored AI solutions and educating employees on their application in business settings.", "category": "Website"}
+{"id": 668, "prompt": "Create an interface for a yoga studio, highlighting class schedules, instructor profiles, and wellness resources.", "category": "Website"}
+{"id": 669, "prompt": "Design a user interface similar to ChatGPT using the principles of glassmorphism, incorporating bright and lively background colors for an engaging experience.", "category": "Website"}
+{"id": 670, "prompt": "A DataGrid feature that allows users to easily rearrange and sort columns and rows using smooth drag-and-drop animations.", "category": "UI Component"}
+{"id": 671, "prompt": "Design a serene scene of mist-covered Jiangnan using SVG elements.", "category": "Website"}
+{"id": 672, "prompt": "Create a dynamic landing page using React, 3js, and gsap. The homepage will be entirely above the fold, featuring a kaleidoscope effect that transforms into new patterns with each scroll.", "category": "Website"}
+{"id": 673, "prompt": "Stunning translucent calendar popup that smoothly blends into the interface.", "category": "UI Component"}
+{"id": 674, "prompt": "Develop an interactive chart showcasing the latest discoveries in quantum computing research.", "category": "Data Visualization"}
+{"id": 675, "prompt": "A rotating 3D Earth model, complete with interactive features like zooming and panning to explore continents and oceans.", "category": "3D Design"}
+{"id": 676, "prompt": "Create a 3D Pong game using a single HTML file, utilizing modern browser technologies. Allow players to compete against the computer from a first-person perspective, immersing them in a realistic 3D environment.", "category": "Game Dev"}
+{"id": 677, "prompt": "An unadorned medal, featuring a smooth surface with an area designated for ribbon attachment.", "category": "3D Design"}
+{"id": 678, "prompt": "Create a 3D pong game using just a single HTML file, utilizing standard browser technologies. Players can compete against the computer from a first-person viewpoint, adding depth and immersion to the gaming experience.", "category": "Game Dev"}
+{"id": 679, "prompt": "A realistic image of a man with a skullet cruising on a skateboard, capturing the motion and energy of the scene.", "category": "3D Design"}
+{"id": 680, "prompt": "Optimal user interface for casting votes efficiently", "category": "Website"}
+{"id": 681, "prompt": "Create an illustration of a full-scale, mechanical robot with intricate details.", "category": "Website"}
+{"id": 682, "prompt": "Build a website featuring a UI designer with smooth animations and transitions using React Three Fiber, highlighting their design skills and creative projects.", "category": "Website"}
+{"id": 683, "prompt": "Create a website for a company specializing in lash extensions, targeting business clients.", "category": "Website"}
+{"id": 684, "prompt": "Create a site where users can discover awesome skateboarding locations and easily share them with their friends.", "category": "Website"}
+{"id": 685, "prompt": "Create a webpage that features a Mario-inspired level, highlighting its design elements and interactive gameplay.", "category": "Website"}
+{"id": 686, "prompt": "Develop a chart displaying the GDP comparisons among the top 10 nations, including a legend that lists each country's name for clarity.", "category": "Data Visualization"}
+{"id": 687, "prompt": "Create an interface for an application that monitors and displays stock market fluctuations, allowing users to easily follow financial trends.", "category": "Website"}
+{"id": 688, "prompt": "Create an interactive game that simulates packet transmission, helping users understand how headers guide data across networks through engaging gameplay mechanics.", "category": "Game Dev"}
+{"id": 689, "prompt": "A web platform to experiment with C3 language, utilizing Cheerp for web compilation and Monaco for an enhanced coding experience.", "category": "Website"}
+{"id": 690, "prompt": "Stunning translucent calendar popup with smooth animations and interactive features.", "category": "UI Component"}
+{"id": 691, "prompt": "Develop an interactive chart showcasing key insights from quantum computing studies.", "category": "Data Visualization"}
+{"id": 692, "prompt": "Create an interface for a basketball team site, including player profiles, match schedules, and fan interaction features.", "category": "Website"}
+{"id": 693, "prompt": "Create a 3D scene featuring a Korean woman gently interacting with a playful cat.", "category": "3D Design"}
+{"id": 694, "prompt": "Develop a website that provides AI-driven stock analysis. It should have a sleek, modern design using React and TailwindCSS. Users can select stocks via a dropdown menu or chat with AI to specify their research needs.", "category": "Website"}
+{"id": 695, "prompt": "Create a Twitter-like interface for composing and displaying tweets, focusing on user interaction and functionality.", "category": "UI Component"}
+{"id": 696, "prompt": "Design a quick-paced black and white pixel art game, similar to WarioWare, where players tackle rapid mini-games like dodging bullets or landing a ball in a hoop, each within a 10-second limit.", "category": "Game Dev"}
+{"id": 697, "prompt": "Create a website for a company that specializes in selling lash extensions to other businesses.", "category": "Website"}
+{"id": 698, "prompt": "Design an SVG that depicts a serene and foggy landscape inspired by Jiangnan, capturing its tranquil atmosphere.", "category": "Website"}
+{"id": 699, "prompt": "Create a simple Pong game within one HTML file where a player competes against a computer. The AI should mimic human-like errors by not always perfectly tracking the ball, especially as the game\u2019s intensity increases.", "category": "Game Dev"}
+{"id": 700, "prompt": "Design an appealing website interface that showcases an index of trending stories. Display details like chapter numbers, likes, and genres for each story in a vertical list. No images are needed, and there's no requirement for an upload form.", "category": "Website"}
+{"id": 701, "prompt": "Create an SVG featuring a pelican cycling on a bike.", "category": "Website"}
+{"id": 702, "prompt": "Create a single-page application where users can upload a Scorm 1.2 zip file, visually edit it like a PowerPoint, adjust quiz flows, and export the revised learning module back as a Scorm 1.2 file.", "category": "Website"}
+{"id": 703, "prompt": "A stunning transparent calendar pop-up that smoothly appears on the screen.", "category": "Website"}
+{"id": 704, "prompt": "A rotating 3D sphere of the Earth with interactive features.", "category": "3D Design"}
+{"id": 705, "prompt": "Create an interface for a weather application that provides updates on Martian weather conditions instead of Earth's, showcasing temperature, wind speeds, and atmospheric changes on Mars.", "category": "Website"}
+{"id": 706, "prompt": "Create a website to monitor the performance of large language models, using benchmarks and various metrics for evaluation.", "category": "Website"}
+{"id": 707, "prompt": "A detailed 3D representation of Earth, allowing users to explore continents and oceans interactively.", "category": "3D Design"}
+{"id": 708, "prompt": "Create an interactive game where players control a mischievous goose causing chaos in a small village.", "category": "Game Dev"}
+{"id": 709, "prompt": "Design a 1-bit pixel art game in black and white, where players tackle a sequence of quick mini-games under tight time limits, similar to the fast-paced challenges in WarioWare.", "category": "Game Dev"}
+{"id": 710, "prompt": "Create an interactive dashboard for managing employee data in a SaaS platform, featuring dynamic charts and graphs for easy analysis.", "category": "Data Visualization"}
+{"id": 711, "prompt": "A rotating 3D sphere representing Earth, complete with continents and oceans.", "category": "3D Design"}
+{"id": 712, "prompt": "Create a Mario-inspired level with engaging obstacles and platforms, allowing players to navigate through challenges and collect coins.", "category": "Game Dev"}
+{"id": 713, "prompt": "Create a Tailwind CSS-based UI element for a job portal, emphasizing its role in displaying job listings or search filters.", "category": "UI Component"}
+{"id": 714, "prompt": "Design an appealing user interface for a website that showcases user-uploaded stories. Focus on creating a story index that highlights the site's most popular tales, featuring details like chapter numbers, likes, and genres. An upload form is not necessary.", "category": "Website"}
+{"id": 715, "prompt": "Could you provide me with an analysis of the match?", "category": "Website"}
+{"id": 716, "prompt": "Create a user interface for a high-frequency trading firm focused on Solana arbitrage. The website will serve as an informational platform, detailing the company's activities without any sales intentions.", "category": "Website"}
+{"id": 717, "prompt": "Design a virtual map that users can explore and interact with.", "category": "3D Design"}
+{"id": 718, "prompt": "A website for feline grooming services, highlighting offerings like baths, haircuts, and nail trims for cats.", "category": "Website"}
+{"id": 719, "prompt": "Create an interactive boids simulation with sophisticated control options, where users can adjust parameters like speed and cohesion to influence flock behavior.", "category": "Game Dev"}
+{"id": 720, "prompt": "Create a website where users can easily book tables at a restaurant, view available time slots, and receive confirmation of their reservation.", "category": "Website"}
+{"id": 721, "prompt": "Gentle, rolling sea waves with shimmering reflections and dynamic movement create a serene 3D seascape, inviting users to explore the tranquil ocean scene.", "category": "3D Design"}
+{"id": 722, "prompt": "A simulator designed to demonstrate and explore the concept of gravitational waves.", "category": "Website"}
+{"id": 723, "prompt": "Design an engaging aquarium-themed 2D game using Pixi.js. Players can introduce new fish, feed them, and watch as larger fish attempt to prey on smaller ones. Include underwater plants for tiny fish to hide from predators.", "category": "Website"}
+{"id": 724, "prompt": "Create a single-page application that lets users upload a SCORM 1.2 zip file and edit it visually, like PowerPoint, including quizzes and flow adjustments. Users can then export the modified module back to SCORM 1.2 format.", "category": "Website"}
+{"id": 725, "prompt": "Create a Mario-inspired game level where players navigate challenging platforms and obstacles.", "category": "Game Dev"}
+{"id": 726, "prompt": "Create a single-page application where users can upload a Scorm 1.2 zip file and visually modify it as if editing a PowerPoint. Users can adjust elements like quizzes and export the updated module back to Scorm 1.2 format.", "category": "Website"}
+{"id": 727, "prompt": "Create an appealing interface for a website allowing users to submit their stories. Showcase top stories with details like chapter numbers, likes, and genres, highlighting the site's engaging content.", "category": "Website"}
+{"id": 728, "prompt": "Design an aquarium-themed 2D game using Pixi.js. Players can introduce new fish, feed them, and watch as larger fish pursue smaller ones. Include hiding spots for the smaller fish to escape predators.", "category": "Website"}
+{"id": 729, "prompt": "Could you analyze these 15 soccer matches\u2014G\u00f6teborg vs. Elfsborg, Malm\u00f6 vs. Norrk\u00f6ping, and so on\u2014by pulling odds from five different companies? Provide a mathematical comparison, including averages and deviations, along with predictions of each winner, and cite your sources.", "category": "Website"}
+{"id": 730, "prompt": "Experience a 2D water simulation where clicking generates water, and the cursor acts as a hand, allowing you to interact with the liquid surface.", "category": "Website"}
+{"id": 731, "prompt": "Create a platform similar to YouTube that specializes in interactive DevOps and coding tutorials, allowing users to engage deeply with practical lessons.", "category": "Website"}
+{"id": 732, "prompt": "The most cheerful-looking smiley icon.", "category": "Website"}
+{"id": 733, "prompt": "A 3D website feature that mimics realistic, unpredictable water waves, offering an authentic simulation experience.", "category": "Website"}
+{"id": 734, "prompt": "I'm looking for a unique, cutting-edge design for my hands-on coding YouTube clone. We need an interface that's so innovative, it becomes indispensable for learners, offering features they never imagined but now can't do without.", "category": "Website"}
+{"id": 735, "prompt": "Create a 3D representation of a feline, complete with fur texture and realistic movements.", "category": "3D Design"}
+{"id": 736, "prompt": "Create an interface for an animal sanctuary using a neobrutalist design, highlighting bold typography and raw, minimalist elements.", "category": "Website"}
+{"id": 737, "prompt": "Realistic 3D water waves that move unpredictably, mimicking natural behavior accurately.", "category": "3D Design"}
+{"id": 738, "prompt": "I'm looking for an innovative and cutting-edge design for my coding tutorial platform, inspired by YouTube. The UI should be groundbreaking, offering learners a unique experience they won't be able to do without once they try it.", "category": "Website"}
+{"id": 739, "prompt": "Create a comprehensive website that allows users to upload a SCORM 1.2 zip file, edit its components visually, and then save it as a newly packaged SCORM 1.2 zip file.", "category": "Website"}
+{"id": 740, "prompt": "Create a user interface for a site that calculates recipe costs, focusing solely on adding, editing, deleting, and viewing ingredients.", "category": "Website"}
+{"id": 741, "prompt": "A simulation where cloth with lifelike physics drapes over various objects, allowing users to tweak mesh settings for different effects.", "category": "3D Design"}
+{"id": 742, "prompt": "I'm looking for a unique and innovative design for my coding tutorial site, reminiscent of a YouTube clone. The goal is to create an interface so captivating and useful that learners find it indispensable.", "category": "Website"}
+{"id": 743, "prompt": "Can you analyze the matchups between teams like G\u00f6teborg-Elfsborg and Malm\u00f6-Norrk\u00f6ping using odds from five different companies? Provide a mathematical comparison of odds and predict the winners for games on 12.07.2025.", "category": "Website"}
+{"id": 744, "prompt": "Design a 2D aquarium game using Pixi.js, where various fish species swim around. Players can add new fish and feed them. Larger fish will chase smaller ones, but small fish can hide among underwater plants.", "category": "Website"}
+{"id": 745, "prompt": "G\u00f6teborg vs. Elfsborg, Malm\u00f6 vs. Norrk\u00f6ping, Brommapojkarna vs. \u00d6sters IF, and other matches are analyzed. For each game, gather odds from five companies, calculate the average and deviation, and evaluate home win, draw, or away win outcomes based on your insights.", "category": "Website"}
+{"id": 746, "prompt": "Interactive water surface simulation, featuring realistic and dynamic 3D waves that move unpredictably, enhancing user engagement with lifelike behavior.", "category": "UI Component"}
+{"id": 747, "prompt": "Interactive dashboard for a bike speedometer.", "category": "UI Component"}
+{"id": 748, "prompt": "Design a user interface for a personal assistant app featuring a team of specialized AI agents working together to handle tasks, with access to your email, calendar, and social media accounts.", "category": "UI Component"}
+{"id": 749, "prompt": "Create a stylish website for SAT preparation, focusing on comprehensive study resources and interactive practice tests.", "category": "Website"}
+{"id": 750, "prompt": "Create a visually stunning adventure game, full of creativity and imagination, with captivating landscapes and exciting challenges.", "category": "Game Dev"}
+{"id": 751, "prompt": "Create a 3D model of a Naruto leaf village headband for display on a general website.", "category": "Website"}
+{"id": 752, "prompt": "Design a 3D helicopter model, focusing on details like rotor blades, cockpit, and tail, while ensuring it can be viewed and interacted with from various angles.", "category": "3D Design"}
+{"id": 753, "prompt": "Create a single-page application where users can upload a SCORM 1.2 zip file, visually edit the content like a PowerPoint, modify sections such as quizzes, and then export it back as a SCORM 1.2 package.", "category": "Website"}
+{"id": 754, "prompt": "Experience a 3D water simulation where you can click to create water and move your cursor over it to interact. The water stays within a hidden boundary to prevent it from falling, maintaining realistic movement.", "category": "Website"}
+{"id": 755, "prompt": "Interactive 3D representation of Earth, allowing users to rotate and zoom to explore different continents and oceans.", "category": "3D Design"}
+{"id": 756, "prompt": "Explore intricate fractal patterns through dynamic charts and graphs, allowing users to interactively zoom in and out to see the mesmerizing details and mathematical beauty of these complex structures.", "category": "Data Visualization"}
+{"id": 757, "prompt": "Create a basic side-scrolling platform game where players move with arrow keys and jump using the spacebar. Incorporate realistic gravity for jumps, and design both static and dynamic platforms to navigate. Include collectibles for points or power-ups, and basic enemy AI that detects the player and attacks. Handle physics with collision detection, ensuring players bounce or stop upon impact. The game should end when players hit enemies or fall off-screen, and display a score with a restart button. Develop the game using HTML, CSS, and JavaScript, embedding all code in a single HTML file.", "category": "Website"}
+{"id": 758, "prompt": "Create a modern and user-friendly website for SAT preparation.", "category": "Website"}
+{"id": 759, "prompt": "Create an online store for mystical and esoteric items, featuring a variety of enchanting products for sale.", "category": "Website"}
+{"id": 760, "prompt": "Stunning translucent calendar pop-up with smooth animations for selecting dates.", "category": "UI Component"}
+{"id": 761, "prompt": "Create a 3D model of the Naruto leaf village headband for a website, incorporating interactive features for users to explore.", "category": "Website"}
+{"id": 762, "prompt": "Create an AI-powered all-in-one application tailored for Grab, enhancing user engagement and functionality.", "category": "Website"}
+{"id": 763, "prompt": "Create a 3D model of a cutting-edge house envisioned for 2054, featuring advanced technology and sustainable materials.", "category": "3D Design"}
+{"id": 764, "prompt": "A website dedicated to dog adoption, featuring a breed catalog and a friendliness rating to help potential adopters find their perfect furry friend.", "category": "Website"}
+{"id": 765, "prompt": "A block-building adventure game where players explore and create worlds using virtual cubes, offering endless creative possibilities and engaging gameplay.", "category": "Game Dev"}
+{"id": 766, "prompt": "A digital interface displaying essential metrics for drivers during track racing.", "category": "Website"}
+{"id": 767, "prompt": "Explore a simulator that models gravitational waves, allowing users to understand their effects through interactive demonstrations and visualizations.", "category": "Website"}
+{"id": 768, "prompt": "Create an interface for a library's online platform, focusing on user-friendly navigation and easy access to book catalogs and resources.", "category": "Website"}
+{"id": 769, "prompt": "Create a Mario-inspired level where players jump over obstacles and collect coins.", "category": "Game Dev"}
+{"id": 770, "prompt": "Create a 3D model of a bathroom, focusing on its layout and user-friendly features.", "category": "Website"}
+{"id": 771, "prompt": "Create a user interface for tracking staff locations and assigning them to various projects.", "category": "Website"}
+{"id": 772, "prompt": "Create a broadcast overlay for Indycar at the 2025 Indianapolis 500, optimized for a 1080p, 16:9 screen. Place it on the left side, allowing space for video playback, and display driver number, name, current and remaining laps, and leader interval.", "category": "Website"}
+{"id": 773, "prompt": "Design a user interface for a personal assistant app that employs a group of specialized AI agents working together to handle tasks, utilizing access to your email, calendar, social media, and more.", "category": "UI Component"}
+{"id": 774, "prompt": "Exploring how electrons move in a quadrupole mass spectrometer.", "category": "Website"}
+{"id": 775, "prompt": "Create a cutting-edge digital workspace for a legal research assistant API. It should blend futuristic elements with a sense of familiarity, avoiding any resemblance to existing user interface styles.", "category": "Website"}
+{"id": 776, "prompt": "Design an interface for a high-end watch brand with a sleek black background and crisp white text. Use a precise grid layout and create hover effects that mimic clock movements. Include a sticky time widget that quietly ticks as you navigate.", "category": "Website"}
+{"id": 777, "prompt": "Design an e-commerce site for a boutique tea company, incorporating paper-like textures, gentle earth hues, and watercolor art. Seamlessly transition between product areas, and make buttons resemble torn paper tags with smooth, organic animations.", "category": "Website"}
+{"id": 778, "prompt": "G\u00f6teborg-Elfsborg, Malm\u00f6-Norrk\u00f6ping, Brommapojkarna-\u00d6sters IF, Gais-Hammarby, Hacken-Halmstads BK, Bodo Glimt-Sandefjord, Fredrikstad-Molde, Bryne-Valerenga, Haugesund-KFUM, Kristiansund BK-Sarpsborg 08, Rosenborg-Ham Kam, Brann-Viking, Inter Turku-Jaro, Gnistan-Haka, Oulu-KTP. Analyze these matches by comparing odds from five different firms, focusing on mathematical averages, deviations, and comparisons to predict the winner for each match, whether it's the home team, a draw, or the away team.", "category": "Website"}
+{"id": 779, "prompt": "Create an engaging browser game where players interact with quirky ducks in various challenges.", "category": "Game Dev"}
+{"id": 780, "prompt": "Develop an interactive browser-based ping pong game where players can simulate matches, practice skills, and enjoy competitive gameplay.", "category": "Game Dev"}
+{"id": 781, "prompt": "Create a 2D idle tower-defense game for mobile devices: Place a central tower that fends off waves of enemies from all sides, with each wave growing in strength and numbers. Players use coins to upgrade attributes like health and defense in a workshop, and enhancements carry over between games. Unlock special abilities and perks in a lab, such as shockwaves or life-steal. During gameplay, draw cards for temporary boosts and use modules for ongoing advantages. Earn coins for upgrades and gems for unlocking features, with gems appearing every 10-15 minutes. Include daily quests, tournaments, and milestones with rewards, plus guilds or leaderboards for social aspects. Implement offline resource generation for continuous progression.", "category": "Game Dev"}
+{"id": 782, "prompt": "Create a website for selling pre-assembled computers, highlighting product features, customer reviews, and easy purchase options.", "category": "Website"}
+{"id": 783, "prompt": "As a skilled web developer focused on UI code creation, your mission is to build a complete AI chatbot system for four influencers on a website. You'll receive a specified tech stack in the user's message, which you must follow precisely. Ensure the code is clean, modular, and responsive, using Next.js 14 for a fast, seamless user experience. Provide only the code.", "category": "Website"}
+{"id": 784, "prompt": "Improve this Pong game code: <!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><title>Pong Game</title><style>canvas {display: block;margin: auto;background: #000;}</style></head><body><canvas id=\"pongCanvas\" width=\"480\" height=\"320\"></canvas><script>const canvas = document.getElementById('pongCanvas');const ctx = canvas.getContext('2d');// Game variables and constantslet x = canvas.width / 2;let y = canvas.height - 30;let dx = 2;let dy = -2;const ballRadius = 10;const paddleHeight = 10;const paddleWidth = 75;let leftPaddleY = (canvas.height - paddleHeight) / 2;let rightPaddleY = (canvas.height - paddleHeight) / 2;const paddleSpeed = 5;let score = 0;// Draw the ballfunction drawBall() {ctx.beginPath();ctx.arc(x, y, ballRadius, 0, Math.PI*2);ctx.fillStyle = \"#0095DD\";ctx.fill();ctx.closePath();}// Draw the paddlesfunction drawPaddle(x, y) {ctx.beginPath();ctx.rect(x, y, paddleWidth, paddleHeight);ctx.fillStyle = \"#0095DD\";ctx.fill();ctx.closePath();}// Display the scorefu", "category": "Game Dev"}
+{"id": 785, "prompt": "Develop a 3D model showcasing all Grab services, with an emphasis on AI integration, inspired by Airbnb's design approach.", "category": "Website"}
+{"id": 786, "prompt": "Develop a 3D model showcasing all Grab services, inspired by Airbnb's aesthetic, with a strong emphasis on AI-driven features.", "category": "3D Design"}
+{"id": 787, "prompt": "Interactive driver dashboard displaying speed, lap times, and RPM for track racing mode, enhancing real-time driving performance insights.", "category": "UI Component"}
+{"id": 788, "prompt": "Create a lifelike mockup featuring a laptop displaying your product, showcasing its features and functionality in a visually engaging manner.", "category": "Website"}
+{"id": 789, "prompt": "Create an innovative API sandbox for a research assistant, featuring cutting-edge tools and futuristic capabilities.", "category": "Website"}
+{"id": 790, "prompt": "Create a user-friendly interface for a digital agency specializing in web development services.", "category": "Website"}
+{"id": 791, "prompt": "Create an innovative interface for a research assistant that showcases cutting-edge technology and futuristic features, offering a unique interactive experience.", "category": "UI Component"}
+{"id": 792, "prompt": "Create an interface for an old-school computer console, featuring headers, progress meters, buttons, switches, and text labels. The design should evoke a nostalgic, weathered look with vibrant colors and geometric shapes, all viewed from the front.", "category": "Game Dev"}
+{"id": 793, "prompt": "Design a 3D interactive model showcasing all Grab services, inspired by Airbnb's aesthetic.", "category": "3D Design"}
+{"id": 794, "prompt": "Develop a 3D representation showcasing all Grab services, inspired by the aesthetic of Airbnb, with interactive elements for users to explore each offering.", "category": "3D Design"}
+{"id": 795, "prompt": "A user interface designed for an online phone service platform.", "category": "Website"}
+{"id": 796, "prompt": "Create a user interface for a 3D simulation game inspired by the Game of Life, focusing on user interaction and the game\u2019s dynamic features.", "category": "Website"}
+{"id": 797, "prompt": "Create a vintage-style computer interface for a space garbage freighter, featuring headers, progress bars, buttons, switches, and text labels. It should have a colorful, geometric design, appear aged, and be viewed from the front.", "category": "Website"}
+{"id": 798, "prompt": "This webpage illustrates how linear regression can be used to analyze and predict trends by displaying interactive charts and graphs that let users explore relationships between variables.", "category": "Data Visualization"}
+{"id": 799, "prompt": "Design a comprehensive 3D model showcasing all Grab services, featuring a sleek, glass-like icon style for each service.", "category": "Website"}
+{"id": 800, "prompt": "Create an innovative page for a research assistant that offers futuristic features and functions, ensuring it stands out with unique interactivity.", "category": "UI Component"}
+{"id": 801, "prompt": "Create a mobile-friendly interface for an app that helps users monitor and manage their fitness progress and goals.", "category": "Website"}
+{"id": 802, "prompt": "Create a vintage-style interface for a space garbage ship's computer. Include headers, progress bars, buttons, toggles, and labels, all with a colorful, geometric design. The look should be old and worn, viewed from a full-frontal angle.", "category": "Game Dev"}
+{"id": 803, "prompt": "Create a vibrant, front-facing retro console interface for a space junker ship. Incorporate headers, progress bars, buttons, toggles, and text labels with a vintage, weathered feel. Use bold geometric shapes and a lively color palette.", "category": "Game Dev"}
+{"id": 804, "prompt": "Create a well-spaced and stylish card to showcase the scores and highlights of a soccer match.", "category": "Website"}
+{"id": 805, "prompt": "Create an interactive card element that highlights key features and allows users to explore its functionality.", "category": "UI Component"}
+{"id": 806, "prompt": "Create a complete and playable Tetris game for users to enjoy online.", "category": "Website"}
+{"id": 807, "prompt": "Project Blueprint: The Living Family Scrapbook Core Idea: A private digital scrapbook managed by one person to preserve family history through stories and media. Key Features: The Dashboard offers a quick overview of the project, including statistics on people and events, recent updates, a \"Today in History\" widget for family milestones, and a simple research task list.", "category": "Website"}
+{"id": 808, "prompt": "Design a website featuring a rotating globe, allowing users to spin it and explore different regions interactively.", "category": "Website"}
+{"id": 809, "prompt": "Design a visually appealing webpage that showcases a collection of various restaurant menus, highlighting different cuisines and dining experiences.", "category": "Website"}
+{"id": 810, "prompt": "Create a website tailored for AI development tools aimed at professional developers, emphasizing features like bug tracking, high accuracy, integration with extensive codebases, and ticketing systems.", "category": "Website"}
+{"id": 811, "prompt": "A digital audio workstation interface designed for creating and editing music tracks, offering intuitive controls for sound manipulation and recording.", "category": "Website"}
+{"id": 812, "prompt": "Create a user interface for an interior design studio set in space. Include elements like headers, progress indicators, buttons, switches, and text labels, all viewed from a frontal angle.", "category": "Website"}
+{"id": 813, "prompt": "Create an interface for a Bonsai management app that helps organize your collection, track maintenance schedules, record pot types, and monitor expenses.", "category": "Website"}
+{"id": 814, "prompt": "Create a vintage computer console interface that features headers, progress indicators, buttons, switches, and text descriptions. The design should appear aged and classic, viewed from the front, with vibrant colors and geometric shapes.", "category": "Website"}
+{"id": 815, "prompt": "Create a quick, user-friendly, and touch-optimized to-do list application that includes drag-and-drop features and a sleek, minimalistic interface for easy task management.", "category": "Website"}
+{"id": 816, "prompt": "Create a cloud management platform that resembles AWS, allowing users to efficiently oversee their resources.", "category": "Website"}
+{"id": 817, "prompt": "Create a user interface for a 3D version of the Game of Life, enhancing user engagement and interaction.", "category": "Website"}
+{"id": 818, "prompt": "Create an interactive chart displaying the distribution of students attending colleges throughout the United States.", "category": "Data Visualization"}
+{"id": 819, "prompt": "Create an interface for a browser game where players manage and optimize a supply chain, ensuring smooth operations and strategic decision-making.", "category": "Game Dev"}
+{"id": 820, "prompt": "Create an interface for a mobile app that helps users access resources and services at their neighborhood library.", "category": "Website"}
+{"id": 821, "prompt": "Create a vintage computer interface with a 1980s vibe. Include features like headers, toggles, buttons, and progress bars. It should look old yet vibrant, with a colorful, geometric design seen from the front.", "category": "Website"}
+{"id": 822, "prompt": "Proof of concept homepage showcasing core features.", "category": "Website"}
+{"id": 823, "prompt": "Create a vintage-style computer interface with vibrant colors and geometric shapes. It should feature headers, progress bars, buttons, switches, and text labels, all designed to look aged and weathered. Displayed from a direct front view.", "category": "Website"}
+{"id": 824, "prompt": "Develop a 3D concept showcasing all Grab services with a sleek glass-like iconography for an engaging visual experience.", "category": "Website"}
+{"id": 825, "prompt": "Develop a website similar to nba.com, focusing on basketball news, scores, and player statistics.", "category": "Website"}
+{"id": 826, "prompt": "Interactive data display for IESO.", "category": "Data Visualization"}
+{"id": 827, "prompt": "Design a Mario-themed game with rich visuals and engaging gameplay elements.", "category": "Game Dev"}
+{"id": 828, "prompt": "Create an interface for a cooking app that lets users manage their home pantry and check available ingredients.", "category": "Website"}
+{"id": 829, "prompt": "Design an interactive 3D model of a Rubik's Cube, letting users mix up the cube and attempt to solve it, with realistic movements and intuitive controls.", "category": "3D Design"}
+{"id": 830, "prompt": "Create a website for a comprehensive AI development tool aimed at professional developers, emphasizing features like bug tracking, high fidelity, seamless integration with large codebases, and ticket management systems.", "category": "Website"}
+{"id": 831, "prompt": "Create an interface to display a PDF with a side panel that automatically identifies and extracts various fields, marking them with a red outline on the document.", "category": "Website"}
+{"id": 832, "prompt": "The Living Family Scrapbook is a private digital platform managed by one person to preserve family history through multimedia storytelling. The home page offers a summary of the project, featuring a statistics bar, recent updates, an \"On This Day\" widget for family milestones, and a research task list for organizing to-dos.", "category": "Website"}
+{"id": 833, "prompt": "Develop a 3D model showcasing all Shopee services, inspired by Airbnb's aesthetic.", "category": "Website"}
+{"id": 834, "prompt": "Create a series of buttons in various shades, offering an industrial yet subtly futuristic feel. They should provide an enjoyable interaction experience while maintaining simplicity, avoiding excessive intricacy.", "category": "UI Component"}
+{"id": 835, "prompt": "Create an immersive 3D experience called \"UI Dopamine-Maxx Forever,\" designed to captivate and engage users endlessly.", "category": "3D Design"}
+{"id": 836, "prompt": "Create an engaging browser game inspired by Peggle, focusing on interactive gameplay and colorful graphics.", "category": "Game Dev"}
+{"id": 837, "prompt": "Create a site to monitor a company's sales and track inventory movements, both incoming and outgoing.", "category": "Website"}
+{"id": 838, "prompt": "A website for a hair salon featuring services, pricing, and booking options.", "category": "Website"}
+{"id": 839, "prompt": "Develop a web application resembling Google services that enables users to explore and navigate various locations around Boston.", "category": "Website"}
+{"id": 840, "prompt": "Create a user interface for a fan fiction web portal. It should feature a landing page with a portal overview and top-rated stories. Include a feed with filters and live updates, showcasing recent stories by default. Provide sections for users' stories, drafts, and collections, similar pages for characters and fandoms, a list of active authors, and a user profile page.", "category": "Website"}

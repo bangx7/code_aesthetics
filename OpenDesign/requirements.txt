@@ -1,0 +1,11 @@
+pyyaml>=6.0
+datasets>=2.14.0
+tqdm>=4.65.0
+playwright>=1.40.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+requests>=2.31.0
+openai==1.1.1
+selenium==4.15.2
+pillow==10.1.0
+vllm

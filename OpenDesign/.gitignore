@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Benchmark outputs
+arena-bench-result/
+webagent_logs/
+webagent_tmp_batch/
+missing_images.log
+
+# Chrome/Browser data
+chrome_user_data/
+
+# Temporary files
+*.tmp
+*.log
+tmp/
+temp/
+
+# Model weights (if stored locally)
+models/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Large data files
+*.pkl
+*.pickle
+

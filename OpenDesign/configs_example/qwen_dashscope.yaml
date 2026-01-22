@@ -1,0 +1,66 @@
+# Qwen DashScope API Configuration Example
+# Use Alibaba Cloud Bailian/DashScope API
+# Get API Key: https://dashscope.console.aliyun.com/
+
+# ==================== Model Configuration ====================
+model_to_evaluate: "qwen3-coder-aliyun-api"  # Special identifier to trigger DashScope call
+use_api: true
+
+# ==================== API Configuration ====================
+openai:
+  api_key: ${DASHSCOPE_API_KEY}  # Read DashScope API Key  
+  base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+  model: "qwen3-coder-plus"  # Actual model name to call
+  max_tokens: 8192
+  temperature: 0.7
+
+# Static aesthetics judge model settings
+static_judge:
+  model: "gpt-4o"
+  api_key: ${OPENAI_API_KEY}
+  base_url: null
+  temperature: 0.0
+  max_tokens: 4096
+
+# Interactive score judge model settings
+interactive_judge:
+  model: "gpt-4o"
+  api_key: ${OPENAI_API_KEY}
+  base_url: null
+  temperature: 0.0
+  max_tokens: 4096
+
+# ==================== Generation Configuration ====================
+generation:
+  temperature: 0.7
+  max_tokens: 8192
+  num_threads: 32
+
+# ==================== Local Inference Configuration ====================
+local_inference:
+  model_path: ""
+  tensor_parallel_size: 1
+  max_model_len: 10240
+  cuda_devices: "0"
+
+# ==================== Benchmark Configuration ====================
+benchmark:
+  bench_name: "opendesign"
+  data_file: "benchmark_data/all_prompt.jsonl"
+  output_dir: "arena-bench-result"
+
+# ==================== Screenshot Configuration ====================
+screenshot:
+  max_workers: 16
+  timeout: 120
+  batch_size: 100
+
+# ==================== Agent Score Configuration ====================
+agent_score:
+  max_iter: 7
+  window_width: 1920
+  window_height: 1200
+  timeout_seconds: 600
+  batch_size: 3
+  max_workers: 16
+
