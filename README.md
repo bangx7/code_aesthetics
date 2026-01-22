@@ -37,7 +37,8 @@
     <sup>✉</sup>Corresponding author
   </p>
 </div>
-## 🎉 News
+
+ ## 🎉 News
 
 - __[2026.01.23]__: Release the OpenDesign benchmark.
 
