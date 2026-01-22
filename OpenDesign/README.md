@@ -16,6 +16,8 @@
 - [Issues and Support](#issues-and-support)
 - [Citation](#citation)
 
+<a id="features"></a>
+
 ## ✨ Features
 
 - **Multi-Category Evaluation**: Supports 5 design categories (Website, UI Component, 3D Design, Game Dev, Data Visualization)
@@ -29,6 +31,7 @@
 - **Parallel Processing**: Multi-threaded execution for faster benchmarking
 - **Comprehensive Metrics**: Alignment, aesthetics, structural integrity, and interactive functionality scoring
 
+<a id="installation"></a>
 ## 🚀 Installation
 
 ### Prerequisites
@@ -63,6 +66,7 @@ pillow==10.1.0
 vllm  # Only needed for local inference
 ```
 
+<a id="quick-start"></a>
 ## 🎯 Quick Start
 
 ### 1. Configure Your Benchmark
@@ -92,7 +96,6 @@ openai:
 ### 2. Run the Benchmark
 
 ```bash
-# First, make sure you are in the OpenDesign folder
 bash run_benchmark.sh
 ```
 
@@ -103,6 +106,7 @@ This will execute the full pipeline:
 4. Calculate interactive scores
 5. Display final results
 
+<a id="configuration"></a>
 ## ⚙️ Configuration
 
 The benchmark uses a unified `config.yaml` file with the following sections:
@@ -179,6 +183,7 @@ See `configs_example/` for complete examples:
 - `vllm_local.yaml` - vLLM server mode
 - `qwen_dashscope.yaml` - Alibaba Cloud DashScope
 
+<a id="benchmark-categories"></a>
 ## 🎨 Benchmark Categories
 
 The benchmark includes **840 prompts** across 5 categories:
@@ -194,6 +199,7 @@ The benchmark includes **840 prompts** across 5 categories:
 **UI Component**: 4.9%
 
 
+<a id="evaluation-pipeline"></a>
 ## 📊 Evaluation Pipeline
 
 The benchmark follows a 5-step automated pipeline:
@@ -258,6 +264,7 @@ python scripts/show_result_agent_score.py
 - Calculates mean scores and good rates (≥75)
 - Saves final results to `arena-bench-result/model_judgment/final_results/`
 
+<a id="output-structure"></a>
 ## 📁 Output Structure
 
 ```
@@ -280,6 +287,7 @@ arena-bench-result/
         └── {model_name}_{timestamp}.jsonl  # Interactive scores
 ```
 
+<a id="advanced-usage"></a>
 ## 🔧 Advanced Usage
 
 ### Run Individual Steps
@@ -312,6 +320,7 @@ openai:
 ```
 
 
+<a id="metrics"></a>
 ## 📈 Metrics
 
 ### Static Aesthetics Scores
@@ -332,6 +341,7 @@ openai:
 
 
 
+<a id="troubleshooting"></a>
 ## 🐛 Troubleshooting
 
 **Issue**: API rate limit errors
@@ -346,6 +356,7 @@ openai:
 **Issue**: Missing screenshots
 - Solution: Check `missing_images.log` for failed renders
 
+<a id="issues-and-support"></a>
 ## 💬 Issues and Support
 
 If you encounter any problems or have questions about using this benchmark, please feel free to:
@@ -356,6 +367,7 @@ If you encounter any problems or have questions about using this benchmark, plea
 
 We welcome feedback and contributions to improve the benchmark!
 
+<a id="citation"></a>
 ## 🙏 Citation
 
 If you find this codebase useful for your research, please use the following entry.
