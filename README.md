@@ -1,4 +1,4 @@
-# Code Aesthetics with Agentic Reward Feedback
+# [ICLR 2026] Code Aesthetics with Agentic Reward Feedback
 <div align="center">
 <a href='https://bangx7.github.io/code-aesthetics/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
   <a href="https://huggingface.co/SamuelBang/AesCoder-4B"><img alt="Hugging Face"
